@@ -14,7 +14,7 @@ Meet the team behind Vue.js Frankfurt!
 
 :sassy_man: Co-Organiser</br>
 :briefcase: Chief Product Officer @ [Bryter](https://bryter.io/)</br>
-:love_letter: [Twitter](https://twitter.com/m_ic), [GitHub](https://github.com/flxwu), [Website](https://www.michaelhuebl.de)
+:love_letter: [Twitter](https://twitter.com/m_ic), [Website](https://www.michaelhuebl.de)
 
 ## Alexander Schwartz
 
