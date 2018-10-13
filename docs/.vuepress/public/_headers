@@ -1,0 +1,3 @@
+## The following files have content hashes, therefore they can be used without re-validation
+/assets/*
+  Cache-Control: max-age=21600, must-revalidate
