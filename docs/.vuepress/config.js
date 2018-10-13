@@ -1,6 +1,6 @@
-const EN_DESC = 'CSS Frankfurt is a meetup community for anyone interested in CSS and design on the web. Join us at one of our events to get to know our community.';
-const DE_DESC = 'German CSS Frankfurt';
-const TITLE = 'CSS Frankfurt';
+const EN_DESC = 'Vue.js Frankfurt is a meetup community for anyone interested in Vue.js. Join us at one of our events to get to know our community.';
+const DE_DESC = 'German Vue.js Frankfurt';
+const TITLE = 'Vue.js Frankfurt';
 
 module.exports = {
   serviceWorker: true,
@@ -36,7 +36,7 @@ module.exports = {
         // algolia docsearch options for current locale
         algolia: {},
         nav: [
-          { text: 'Meetup', link: 'https://meetup.com/cssfrankfurt' }
+          { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' }
         ],
         sidebar: [
           '/',
@@ -87,7 +87,7 @@ module.exports = {
         displayAllHeaders: true,
         sidebarDepth: 2,
         nav: [
-          { text: 'Meetup', link: 'https://meetup.com/cssfrankfurt' }
+          { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' }
         ],
         sidebar: [
           '/de/',
@@ -141,13 +141,13 @@ module.exports = {
     ['meta', { property: 'og:locale', content: 'en-US' }],
     ['meta', { property: 'og:locale:alternate', content: 'de-DE' }],
     ['meta', { property: 'og:description', content: EN_DESC }],
-    ['meta', { property: 'og:image', content: 'https://cssfrankfurt.de/cover.jpg' }],
+    ['meta', { property: 'og:image', content: 'https://vuejsfrankfurt.de/cover.jpg' }],
     ['meta', { property: 'og:title', content: TITLE }],
-    ['meta', { property: 'og:url', content: 'https://cssfrankfurt.de' }],
+    ['meta', { property: 'og:url', content: 'https://vuejsfrankfurt.de' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:creator', content: '@cssfrankfurt' }],
     ['meta', { name: 'twitter:description', content: EN_DESC }],
-    ['meta', { name: 'twitter:image', content: 'https://cssfrankfurt.de/cover.jpg' }],
+    ['meta', { name: 'twitter:image', content: 'https://vuejsfrankfurt.de/cover.jpg' }],
     ['meta', { name: 'twitter:title', content: TITLE }],
   ],
 };

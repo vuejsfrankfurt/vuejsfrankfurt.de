@@ -1,7 +1,7 @@
 {
-    "name": "CSS Frankfurt",
-    "short_name": "CSSFrankfurt",
-    "description": "CSS Frankfurt is a meetup community for anyone interested in CSS and design on the web. Join us at one of our events to get to know our community.",
+    "name": "Vue.js Frankfurt",
+    "short_name": "Vue.js Frankfurt",
+    "description": "Vue.js Frankfurt is a meetup community for anyone interested in Vue.js. Join us at one of our events to get to know our community.",
     "icons": [
         {
             "src": "/favicons/android-chrome-192x192.png",
@@ -16,6 +16,6 @@
     ],
     "theme_color": "#292a2e",
     "background_color": "#ffffff",
-    "start_url": "https://cssfrankfurt.de/",
+    "start_url": "https://vuejsfrankfurt.de/",
     "display": "standalone"
 }

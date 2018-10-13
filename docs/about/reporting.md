@@ -1,6 +1,6 @@
 # :police_car: Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please contact us at ****report@cssfrankfurt.de**** or reach out any of our [team members](/#meet-the-team).
+If you are subject to or witness unacceptable behavior, or have any other concerns, please contact us at ****report@vuejsfrankfurt.de**** or reach out any of our [team members](/#meet-the-team).
 
 ## 1. Information we need from you
 
@@ -25,11 +25,11 @@ Once we have a complete account of the incident(s), we will make a decision as t
 - Nothing (if we determine no violation occurred)
 - A private reprimand from the organisers to the individual(s) involved
 - A public reprimand
-- A permanent or temporary ban from some or all CSS Frankfurt spaces
+- A permanent or temporary ban from some or all Vue.js Frankfurt spaces
 - A request for a public or private apology
 
 We will respond within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved.
 
 ## 3. Questions or concerns
 
-If you have any questions or complaints regarding how your report was handled, please contact us at **report@cssfrankfurt.de**, and we will review your concerns.
+If you have any questions or complaints regarding how your report was handled, please contact us at **report@vuejsfrankfurt.de**, and we will review your concerns.

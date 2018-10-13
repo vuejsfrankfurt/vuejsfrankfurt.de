@@ -1,6 +1,6 @@
 # :star2: Sponsoren & Unterstützer
 
-CSS Frankfurt freut sich über aktive (oder passive) Unterstützung durch und für die Community.
+Vue.js Frankfurt freut sich über aktive (oder passive) Unterstützung durch und für die Community.
 
 Wir freuen uns über Unterstützung bei folgenden Themen:
 * Speaker: Du hast eine Idee für einen Vortrag, den du selbst halten möchtest oder ein Wunschthema, über das du gern mehr erfahren möchtest?
@@ -11,4 +11,4 @@ Wir freuen uns über Unterstützung bei folgenden Themen:
 
 ## Werde Sponsor oder Unterstützer!
 
-Du möchtest CSS Frankfurt unterstützen? Melde dich gern [direkt bei](./contact.md) uns oder einem unserer [Teammitglieder](./team.md).
+Du möchtest Vue.js Frankfurt unterstützen? Melde dich gern [direkt bei](./contact.md) uns oder einem unserer [Teammitglieder](./team.md).

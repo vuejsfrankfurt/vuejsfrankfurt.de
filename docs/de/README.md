@@ -1,6 +1,6 @@
-# Willkommen bei CSS Frankfurt
+# Willkommen bei Vue.js Frankfurt :tada:
 
-CSS Frankfurt ist eine Meetup-Community für alle, die sich für CSS und Web-Design interessieren. Nimm an einer unserer Veranstaltungen teil, um unsere Community kennenzulernen. Wir hoffen, Dich bald zu sehen!
+Vue.js Frankfurt ist eine Meetup-Community für alle, die sich für Vue.js interessieren. Nimm an einer unserer Veranstaltungen teil, um unsere Community kennenzulernen. Wir hoffen, Dich bald zu sehen!
 
 <!-- TODO: Add Frank the Furt bio -->
 

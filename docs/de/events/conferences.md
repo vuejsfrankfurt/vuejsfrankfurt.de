@@ -2,7 +2,7 @@
 
 <!-- TODO: Add more conferences. -->
 
-CSS Frankfurt at conferences.
+CSS Frankfurt und Vue.js Frankfurt auf Konferenzen.
 
 - [CSSconfEU](https://cssconf.eu) - A conference dedicated to everyone who loves and writes CSS in Berlin, Germany.
 - [dotCSS](https://dotcss.io) - Europe's largest CSS conference, in Paris, France.

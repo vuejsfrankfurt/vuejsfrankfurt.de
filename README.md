@@ -1,4 +1,4 @@
-# Welcome to Vue.js Frankfurt
+# Welcome to Vue.js Frankfurt :tada:
 
 Vue.js Frankfurt is a meetup community for anyone interested in Vue.js. Join us at one of our events to get to know our community. We hope to see you around!
 
@@ -6,7 +6,7 @@ Vue.js Frankfurt is a meetup community for anyone interested in Vue.js. Join us 
 
 Any contribution is welcome and highly appreciated. Head over to our [contribution guidelines](docs/CONTRIBUTING.md) to get started!
 
-This site is build using [VuePress](https://vuepress.vuejs.org). Please see their [guide](https://vuepress.vuejs.org/guide/) for more information. If you have any questions, feel free to reach out on our [forums](https://spectrum.chat/cssfrankfurt/website/).
+This site is build using [VuePress](https://vuepress.vuejs.org). Please see their [guide](https://vuepress.vuejs.org/guide/) for more information. If you have any questions, feel free to reach out on our [forums](https://spectrum.chat/vuejsfrankfurt/).
 
 ### Setup
 
