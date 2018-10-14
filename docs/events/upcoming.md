@@ -17,10 +17,10 @@ Mark this date in your calendar! We are in the process of organizing a venue and
 
 We collected many ideas during the Kickoff event - please reach out to us for additional ideas, locations and sponsors!
 
-**When?** Tuesday, 15. January @ 18:00 Uhr</br>
+**When?** Tuesday, January 15 @ 18:00</br>
 **Where?** TBA
 
-[mehr...](https://www.meetup.com/vuejsfrankfurt/events/255459806/)
+[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/255459806/)
 
 ## Event March 2019
 
@@ -28,10 +28,10 @@ Mark this date in your calendar! We are in the process of organizing a venue and
 
 We collected many ideas during the Kickoff event - please reach out to us for additional ideas, locations and sponsors!
 
-**When?** Tuesday, 12. March @ 18:00 Uhr</br>
+**When?** Tuesday, March 12 @ 18:00</br>
 **Where?** TBA
 
-[mehr...](https://www.meetup.com/vuejsfrankfurt/events/255460169/)
+[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/255460169/)
 
 ## Event May 2019
 
@@ -39,7 +39,7 @@ Mark this date in your calendar! We are in the process of organizing a venue and
 
 We collected many ideas during the Kickoff event - please reach out to us for additional ideas, locations and sponsors!
 
-**When?** Tuesday, 7. May @ 18:00 Uhr</br>
+**When?** Tuesday, May 7 @ 18:00</br>
 **Where?** TBA
 
-[mehr...](https://www.meetup.com/vuejsfrankfurt/events/255460193/)
+[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/255460193/)
