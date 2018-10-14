@@ -10,7 +10,7 @@ Meet the team behind Vue.js Frankfurt!
 :office: Front-End Developer @ [melsicon GmbH](https://melsicon.de)</br>
 :love_letter: [Twitter](https://twitter.com/vicbergquist), [GitHub](https://github.com/vicbergquist), [CodePen](https://codepen.io/vicbergquist)
 
-## Michael Hübl
+## Michael Hübl 
 
 :sassy_man: Co-Organiser</br>
 :briefcase: Chief Product Officer @ [Bryter](https://bryter.io/)</br>
