@@ -9,7 +9,7 @@ Feiere die Feiertage mit CSS Frankfurt und Vue.js Frankfurt.
 
 [mehr...](https://www.meetup.com/vuejsfrankfurt/events/255141413/)
 
-## Vue.js Frankfurt Event Januar 2019
+## Event Januar 2019
 
 Haltet euch den Abend frei. Wir planen aktuell noch den Veranstaltungsort und den Sprecher. 
 
@@ -20,7 +20,7 @@ Auf dem Kickoff haben wir viele Ideen gesammelt - bitte kontaktiert uns, wenn ih
 
 [mehr...](https://www.meetup.com/vuejsfrankfurt/events/255459806/)
 
-## Vue.js Frankfurt Event März 2019
+## Event März 2019
 
 Haltet euch den Abend frei. Wir planen aktuell noch den Veranstaltungsort und den Sprecher. 
 
@@ -31,7 +31,7 @@ Auf dem Kickoff haben wir viele Ideen gesammelt - bitte kontaktiert uns, wenn ih
 
 [mehr...](https://www.meetup.com/vuejsfrankfurt/events/255460169/)
 
-## Vue.js Frankfurt Event Mai 2019
+## Event Mai 2019
 
 Haltet euch den Abend frei. Wir planen aktuell noch den Veranstaltungsort und den Sprecher. 
 
