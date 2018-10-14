@@ -33,7 +33,7 @@ We collected many ideas during the Kickoff event - please reach out to us for ad
 
 [mehr...](https://www.meetup.com/vuejsfrankfurt/events/255460169/)
 
-## Event Mai 2019
+## Event May 2019
 
 Mark this date in your calendar! We are in the process of organizing a venue and a speaker.
 
