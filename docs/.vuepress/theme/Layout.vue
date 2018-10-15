@@ -173,7 +173,11 @@
             },
 
             onSWUpdated (e) {
-                this.swUpdateEvent = e
+                // instead of a popup do a direct reload of the page
+                // this.swUpdateEvent = e
+                e.skipWaiting().then(() => {
+                    location.reload(true)
+                })
             }
         }
     }
