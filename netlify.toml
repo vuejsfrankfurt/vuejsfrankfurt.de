@@ -1,3 +1,4 @@
 [build]
-  command = "yarn build"
+  command = "yarn build && cd lambda && yarn install && yarn generate && cd .."
   publish = "docs/.vuepress/dist"
+  functions = "lambda/dist"
