@@ -1,0 +1,5 @@
+User-agent: *
+# I don't want Google to index the legal stuff so
+# people can't use google to look up the contact information
+# or problematic passages ("vulnerabilities") in impressum and privacy policy
+Disallow: /legal

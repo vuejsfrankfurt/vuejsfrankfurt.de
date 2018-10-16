@@ -36,6 +36,7 @@ module.exports = {
         // algolia docsearch options for current locale
         algolia: {},
         nav: [
+          { text: 'Impressum', link: '/legal/impressum' },
           { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' }
         ],
         sidebar: [
@@ -86,6 +87,7 @@ module.exports = {
         displayAllHeaders: true,
         sidebarDepth: 2,
         nav: [
+          { text: 'Impressum', link: '/legal/impressum' },
           { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' }
         ],
         sidebar: [
