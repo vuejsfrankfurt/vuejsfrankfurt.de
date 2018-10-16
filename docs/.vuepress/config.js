@@ -37,6 +37,7 @@ module.exports = {
         algolia: {},
         nav: [
           { text: 'Impressum', link: '/legal/impressum' },
+          { text: 'Privacy Policy', link: '/legal/privacypolicy' },
           { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' }
         ],
         sidebar: [
@@ -88,6 +89,7 @@ module.exports = {
         sidebarDepth: 2,
         nav: [
           { text: 'Impressum', link: '/legal/impressum' },
+          { text: 'Datenschutz', link: '/legal/privacypolicy' },
           { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' }
         ],
         sidebar: [
