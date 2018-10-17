@@ -1,4 +1,4 @@
-# :star2: Sponsor & Support
+# :star2: Sponsors & Support
 
 Vue.js Frankfurt welcomes all kinds of support from the community. Our sponsors assist us with various things on various levels, including providng event locations, organisational support as well as budgets for stickers, food and drinks for our events. Below you can find those who have supported us so far and find out more about how you can help.
 

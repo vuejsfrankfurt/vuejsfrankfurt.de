@@ -36,8 +36,6 @@ module.exports = {
         // algolia docsearch options for current locale
         algolia: {},
         nav: [
-          { text: 'Impressum', link: '/legal/impressum' },
-          { text: 'Privacy Policy', link: '/legal/privacypolicy' },
           { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' }
         ],
         sidebar: [
@@ -72,6 +70,14 @@ module.exports = {
               '/community/community'
             ]
           },
+          {
+            title: 'Legal',
+            collapsable: false,
+            children: [
+              '/legal/impressum',
+              '/legal/privacypolicy'
+            ]
+          }
         ]
       },
       '/de/': {
@@ -124,6 +130,14 @@ module.exports = {
               '/de/community/community'
             ]
           },
+          {
+            title: 'Rechtliches',
+            collapsable: false,
+            children: [
+              '/legal/impressum',
+              '/legal/privacypolicy'
+            ]
+          }
         ]
       }
     }
