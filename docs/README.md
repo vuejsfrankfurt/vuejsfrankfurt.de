@@ -9,3 +9,5 @@ Take a look around to see what we are currently up to. If you have any questions
 <!-- TODO: Add Community Selfie -->
 
 Vue.js Frankfurt is the sister meetup of [CSS Frankfurt](https://cssfrankfurt.de)
+
+![CSS Frankfurt](/cssfrankfurt.svg)
