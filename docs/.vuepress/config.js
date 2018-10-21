@@ -36,7 +36,8 @@ module.exports = {
         // algolia docsearch options for current locale
         algolia: {},
         nav: [
-          { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' }
+          { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt/' },
+          { text: 'GitHub', link: 'https://github.com/vuejsfrankfurt/vuejsfrankfurt.de/' }
         ],
         sidebar: [
           '/',
@@ -94,9 +95,8 @@ module.exports = {
         displayAllHeaders: true,
         sidebarDepth: 2,
         nav: [
-          { text: 'Impressum', link: '/legal/impressum' },
-          { text: 'Datenschutz', link: '/legal/privacypolicy' },
-          { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' }
+          { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' },
+          { text: 'GitHub', link: 'https://github.com/vuejsfrankfurt/vuejsfrankfurt.de/' }
         ],
         sidebar: [
           '/de/',
