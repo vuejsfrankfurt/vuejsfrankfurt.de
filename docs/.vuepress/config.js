@@ -59,6 +59,7 @@ module.exports = {
             children: [
               '/events/upcoming',
               '/events/past',
+              '/events/learningvue',
               '/events/locations',
               '/events/conferences'
             ]
@@ -118,6 +119,7 @@ module.exports = {
             children: [
               '/de/events/upcoming',
               '/de/events/past',
+              '/de/events/learningvue',
               '/de/events/locations',
               '/de/events/conferences'
             ]
@@ -165,5 +167,6 @@ module.exports = {
     ['meta', { name: 'twitter:description', content: EN_DESC }],
     ['meta', { name: 'twitter:image', content: 'https://vuejsfrankfurt.de/cover.jpg' }],
     ['meta', { name: 'twitter:title', content: TITLE }],
+    ['script', { type: 'text/javascript', src: 'https://pretix.eu/widget/v1.en.js', async: 'async' }]
   ],
 };

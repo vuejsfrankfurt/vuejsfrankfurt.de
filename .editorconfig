@@ -1,0 +1,26 @@
+# .editorconfig
+
+# EditorConfig is awesome: http://EditorConfig.org
+
+# This is the file in the root of the project.
+# For sub folders you can have other files that override only some settings.
+# For these, this settings should be false.
+root = true
+
+[*]
+max_line_length = 120
+# For me it's spaces, not tabs.
+indent_style = space
+indent_size = 2
+continuation_indent_size = 8
+# This should match the settings in your build tools.
+# Especially useful when I write AsciiDoc documentation.
+charset = utf-8
+# Trimming is good for consistency!
+trim_trailing_whitespace = true
+# I've seen cases where a missing new_line was ignored on *nix systems.
+# Never again with this setting!
+insert_final_newline = true
+
+[*.vue]
+indent_size = 4
