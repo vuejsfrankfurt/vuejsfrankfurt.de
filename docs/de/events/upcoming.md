@@ -7,7 +7,7 @@ Für alle, die die Vue.js Grundlagen lernen wollen, bieten wir nun einen Abendku
 **Wann?** Freitag, 9. November @ 16:30 Uhr</br>
 **Wo?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
 
-[Learn more...](/events/learningvue.md)
+[mehr...](/events/learningvue.md)
 
 ## Einsteiger-Training - Projekt Setup
 
@@ -16,7 +16,7 @@ Für alle, die Vue.js lernen wollen, hier der zweite Teil.
 **Wann?** Freitag, 23. November @ 16:30 Uhr</br>
 **Wo?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
 
-[Learn more...](/events/learningvue.md)
+[mehr...](/events/learningvue.md)
 
 ## Einsteiger-Training - Bauen und Testen
 
@@ -25,7 +25,7 @@ Bereite deine Anwendung für die Produktion vor: Automatische Tests sorgen dafü
 **Wann?** Freitag, 7. Dezember @ 16:30 Uhr</br>
 **Wo?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
 
-[Learn more...](/events/learningvue.md)
+[mehr...](/events/learningvue.md)
 
 ## Feiertags Spezial
 
