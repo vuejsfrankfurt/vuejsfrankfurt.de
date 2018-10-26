@@ -1,5 +1,32 @@
 # :dancer: Kommende Veranstaltungen
 
+## Einsteiger-Training - Basics
+
+Für alle, die die Vue.js Grundlagen lernen wollen, bieten wir nun einen Abendkurs an!
+
+**Wann?** Freitag, 9. November @ 16:30 Uhr</br>
+**Wo?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
+
+[Learn more...](/events/learningvue.md)
+
+## Einsteiger-Training - Projekt Setup
+
+Für alle, die Vue.js lernen wollen, hier der zweite Teil.
+
+**Wann?** Freitag, 23. November @ 16:30 Uhr</br>
+**Wo?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
+
+[Learn more...](/events/learningvue.md)
+
+## Einsteiger-Training - Bauen und Testen
+
+Bereite deine Anwendung für die Produktion vor: Automatische Tests sorgen dafür, dass das, was heute funktioniert, morgen immer noch funktioniert.
+
+**Wann?** Freitag, 7. Dezember @ 16:30 Uhr</br>
+**Wo?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
+
+[Learn more...](/events/learningvue.md)
+
 ## Feiertags Spezial
 
 Feiere die Feiertage mit CSS Frankfurt und Vue.js Frankfurt.

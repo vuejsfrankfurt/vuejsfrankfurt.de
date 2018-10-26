@@ -2,6 +2,33 @@
 
 <!-- TODO: translate -->
 
+## Beginner's Training - Basics
+
+For everyone who wants to learn Vue.js from scratch we offer an evening class!
+
+**When?** Friday, November 9 @ 16:30</br>
+**Where?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
+
+[Learn more...](/events/learningvue.md)
+
+## Beginner's Training - Project Setup
+
+For everyone who wants to learn Vue.js from scratch this is part two of the training.
+
+**When?** Friday, November 23 @ 16:30</br>
+**Where?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
+
+[Learn more...](/events/learningvue.md)
+
+## Beginner's Training - Build and Test
+
+Prepare you application for production: When you build and bundle it, automatic tests will ensure that the things that work today still work tomorrow.
+
+**When?** Friday, December 7 @ 16:30</br>
+**Where?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
+
+[Learn more...](/events/learningvue.md)
+
 ## Holiday Special
 
 Celebrate the holidays with CSS Frankfurt and Vue.js Frankfurt.
