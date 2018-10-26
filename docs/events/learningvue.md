@@ -2,13 +2,13 @@
 
 ## The Evening Class
 
-At our kick-off we met a lot of Vue.js enthusiasts with various level of Vue.js experience. Some had no or very little experience. There are many free online resources to learn Vue.js, but this might not be the right choice for everyone. 
+At our kick-off we met a lot of Vue.js enthusiasts with various levels of Vue.js experience. Some had no or very little experience. There are many free online resources to learn Vue.js, but this might not be the right choice for everyone. 
 
 As an alternative we start the experiment of a "Vue.js Beginner's Training Class": 
 
-1. We provide a space and a trainer for a biweekly training
-2. you'll need to pre-register for each event and bring your laptop
-3. the seats are limited and we will charge a fee of 15 EUR per participant and per event.
+1. We provide a space and a trainer for a biweekly training.
+2. You'll need to pre-register for each event and bring your laptop.
+3. The seats are limited and we will charge a fee of 15 EUR per participant and per event.
 
 We've set up the first three events, and we plan for up to six events in total: each covering a different topic. Registrations are now open!
 
