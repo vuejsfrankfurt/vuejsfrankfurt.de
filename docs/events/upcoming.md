@@ -13,7 +13,7 @@ For everyone who wants to learn Vue.js from scratch we offer an evening class!
 
 ## Beginner's Training - Project Setup
 
-For everyone who wants to learn Vue.js from scratch this is part two of the training.
+For everyone who wants to learn Vue.js. This time setting it is all about setting up a project with vue-cli and Webpack.
 
 **When?** Friday, November 23 @ 16:30</br>
 **Where?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn

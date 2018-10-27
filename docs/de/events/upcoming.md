@@ -11,7 +11,7 @@ Für alle, die die Vue.js Grundlagen lernen wollen, bieten wir nun einen Abendku
 
 ## Einsteiger-Training - Projekt Setup
 
-Für alle, die Vue.js lernen wollen, hier der zweite Teil.
+Für alle, die Vue.js lernen wollen. Dieses Mal steht das Projekt-Setup mit vue-cli und Webpack im Zentrum.
 
 **Wann?** Freitag, 23. November @ 16:30 Uhr</br>
 **Wo?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
