@@ -36,14 +36,14 @@ Feiere die Feiertage mit CSS Frankfurt und Vue.js Frankfurt.
 
 [mehr...](https://www.meetup.com/vuejsfrankfurt/events/255141413/)
 
-## Event Januar 2019
+## Event Februar 2019
 
-Haltet euch den Abend frei. Wir planen aktuell noch den Veranstaltungsort und den Sprecher. 
+Haltet euch den Abend frei. Wir planen aktuell noch den Sprecher. 
 
 Auf dem Kickoff haben wir viele Ideen gesammelt - bitte kontaktiert uns, wenn ihr weitere Ideen zum Veranstaltungsort und Sprecher habt!
 
-**Wann?** Dienstag, 15. Januar @ 18:00 Uhr</br>
-**Wo?** TBA
+**Wann?** Donnerstag, 7. Februar @ 18:00 Uhr</br>
+**Wo?** [WeWork Neue Rothofstraße](locations.md#wework-neue-rothofstrasse)
 
 [mehr...](https://www.meetup.com/vuejsfrankfurt/events/255459806/)
 

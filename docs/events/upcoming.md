@@ -38,14 +38,14 @@ Celebrate the holidays with CSS Frankfurt and Vue.js Frankfurt.
 
 [Learn more...](https://www.meetup.com/vuejsfrankfurt/events/255141413/)
 
-## Event January 2019
+## Event February 2019
 
-Mark this date in your calendar! We are in the process of organizing a venue and a speaker.
+Mark this date in your calendar! We are in the process of organizing a speaker.
 
 We collected many ideas during the Kickoff event - please reach out to us for additional ideas, locations and sponsors!
 
-**When?** Tuesday, January 15 @ 18:00</br>
-**Where?** TBA
+**When?** Thursday, February 07 @ 18:00</br>
+**Where?** [WeWork Neue Rothofstraße](locations.md#wework-neue-rothofstrasse)
 
 [Learn more...](https://www.meetup.com/vuejsfrankfurt/events/255459806/)
 

@@ -16,6 +16,12 @@ A big thank-you to all companies and co-working locations that support us!
 :link: [FastBill](https://www.fastbill.com)</br>
 :round_pushpin: Wildungerstrasse 6, 60487 Frankfurt am Main
 
+## WeWork Neue Rothofstraße
+
+:houses: Coworking Space</br>
+:link: [WeWork Neue Rothofstraße](https://www.wework.com/buildings/neue-rothofstrasse-13-19--frankfurt)</br>
+:round_pushpin: [Neue Rothofstraße 13-19, 60313 Frankfurt](https://goo.gl/maps/G7N5yDs5GFm)
+
 ## Mindspace Eurotheum
 
 :houses: Coworking space</br>
