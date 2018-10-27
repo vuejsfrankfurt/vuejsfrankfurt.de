@@ -7,7 +7,7 @@
 For everyone who wants to learn Vue.js from scratch we offer an evening class!
 
 **When?** Friday, November 9 @ 16:30</br>
-**Where?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
+**Where?** [msg systems ag](locations.md#msg-systems-ag)
 
 [Learn more...](/events/learningvue.md)
 
@@ -16,7 +16,7 @@ For everyone who wants to learn Vue.js from scratch we offer an evening class!
 For everyone who wants to learn Vue.js. This time setting it is all about setting up a project with vue-cli and Webpack.
 
 **When?** Friday, November 23 @ 16:30</br>
-**Where?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
+**Where?** [msg systems ag](locations.md#msg-systems-ag)
 
 [Learn more...](/events/learningvue.md)
 
@@ -25,7 +25,7 @@ For everyone who wants to learn Vue.js. This time setting it is all about settin
 Prepare you application for production: When you build and bundle it, automatic tests will ensure that the things that work today still work tomorrow.
 
 **When?** Friday, December 7 @ 16:30</br>
-**Where?** msg systems ag, Taunus Tower, Mergenthalerallee 73-75, Eschborn
+**Where?** [msg systems ag](locations.md#msg-systems-ag)
 
 [Learn more...](/events/learningvue.md)
 
