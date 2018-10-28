@@ -8,7 +8,9 @@ yarn build
 yarn serve &
 child_id=$!
 yarn blc
+ps xu
 kill $!
+ps xu
 
 # preparing lambda
 cd lambda
