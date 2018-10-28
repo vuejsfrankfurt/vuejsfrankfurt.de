@@ -5,11 +5,12 @@ set -ex
 yarn build
 
 # serve site on localhost and run link checker
-yarn serve &
+# this call is optimized to run on the netlify server
+node /opt/build/repo/node_modules/.bin/serve -n docs/.vuepress/dist &
 child_id=$!
 yarn blc
 ps xu
-pkill -p $child_id || true
+kill $child_id || true
 ps xu
 
 # preparing lambda
