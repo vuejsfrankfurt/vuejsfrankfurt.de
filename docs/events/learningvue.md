@@ -6,14 +6,6 @@ meta:
     content: Join us for a biweekly evening class starting on November 9th!
   - name: twitter:image
     content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.png
-  - property: og:title
-    content: Vue.js Beginner's Training
-  - property: og:description
-    content: Join us for a biweekly evening class starting on November 9th!
-  - property: og:image
-    content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.png
-  - property: og:url
-    content: ''
 ---
 
 # :school: Vue.js Beginner's Training
