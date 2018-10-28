@@ -9,7 +9,7 @@ yarn serve &
 child_id=$!
 yarn blc
 ps xu
-kill $!
+pkill -p $child_id || true
 ps xu
 
 # preparing lambda

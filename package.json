@@ -2,7 +2,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "serve": "serve docs/.vuepress/dist",
+    "serve": "serve -n docs/.vuepress/dist",
     "blc": "blc http://127.0.0.1:5000 -e -ro --filter-level 0",
     "blc-external": "blc http://127.0.0.1:5000 -ro --filter-level 0"
   },
