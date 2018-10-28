@@ -1,6 +1,30 @@
+---
+meta:
+  - name: twitter:title
+    content: Vue.js Beginner's Training
+  - name: twitter:description
+    content: Join us for a biweekly evening class starting on November 9th!
+  - name: twitter:image
+    content: /assets/img/frank_learning_vue.f9d3b7d0.png
+  - name: twitter:card 
+    content: summary
+  - name: og:title
+    content: Vue.js Beginner's Training
+  - name: og:description
+    content: Join us for a biweekly evening class starting on November 9th!
+  - name: og:image
+    content: /assets/img/frank_learning_vue.f9d3b7d0.png
+---
+
 # :school: Vue.js Beginner's Training
 
 ## The Evening Class
+
+<div class="imagenextotext">
+
+![Frank with graduation hat](./img/frank_learning_vue.png)
+
+</div>
 
 At our kick-off we met a lot of Vue.js enthusiasts with various levels of Vue.js experience. Some had no or very little experience. There are many free online resources to learn Vue.js, but this might not be the right choice for everyone. 
 
@@ -10,7 +34,7 @@ As an alternative we start the experiment of a "Vue.js Beginner's Training Class
 2. You'll need to pre-register for each event and bring your laptop.
 3. The seats are limited and we will charge a fee of 15 EUR per participant and per event.
 
-We've set up the first three events, and we plan for up to six events in total: each covering a different topic. Registrations are now open!
+We've set up the first three events starting on November 9th, and we plan for up to six events in total: each covering a different topic. Registrations are now open!
 
 **[Link to Registration](https://pretix.eu/ahus1/vuejs-beginner/)**
 
