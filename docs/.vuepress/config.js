@@ -159,14 +159,13 @@ module.exports = {
     ['meta', { property: 'og:locale', content: 'en-US' }],
     ['meta', { property: 'og:locale:alternate', content: 'de-DE' }],
     ['meta', { property: 'og:description', content: EN_DESC }],
-    ['meta', { property: 'og:image', content: 'https://vuejsfrankfurt.de/cover.jpg' }],
+    ['meta', { property: 'og:image', content: 'https://www.vuejsfrankfurt.de/cover.jpg' }],
     ['meta', { property: 'og:title', content: TITLE }],
-    ['meta', { property: 'og:url', content: 'https://vuejsfrankfurt.de' }],
+    ['meta', { property: 'og:url', content: 'https://www.vuejsfrankfurt.de' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:creator', content: '@cssfrankfurt' }],
     ['meta', { name: 'twitter:description', content: EN_DESC }],
-    ['meta', { name: 'twitter:image', content: 'https://vuejsfrankfurt.de/cover.jpg' }],
-    ['meta', { name: 'twitter:title', content: TITLE }],
-    ['script', { type: 'text/javascript', src: 'https://pretix.eu/widget/v1.en.js', async: 'async' }]
+    ['meta', { name: 'twitter:image', content: 'https://www.vuejsfrankfurt.de/cover.jpg' }],
+    ['meta', { name: 'twitter:title', content: TITLE }]
   ],
 };
