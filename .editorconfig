@@ -24,3 +24,6 @@ insert_final_newline = true
 
 [*.vue]
 indent_size = 4
+
+[*.sh]
+end_of_line = lf

@@ -1,0 +1,2 @@
+# Shell scripts need to be LF when you run them on *inux.
+*.sh text eol=lf

@@ -1,9 +1,14 @@
 {
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "serve": "serve docs/.vuepress/dist",
+    "blc": "blc http://127.0.0.1:5000 -e -ro --filter-level 0",
+    "blc-external": "blc http://127.0.0.1:5000 -ro --filter-level 0"
   },
   "devDependencies": {
-    "vuepress": "^0.14.4"
+    "serve": "^10.0.2",
+    "vuepress": "^0.14.4",
+    "broken-link-checker": "^0.7.8"
   }
 }
