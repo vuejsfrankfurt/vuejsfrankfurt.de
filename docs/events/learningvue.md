@@ -5,7 +5,7 @@ meta:
   - name: twitter:description
     content: Join us for a biweekly evening class starting on November 9th!
   - name: twitter:image
-    content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.png
+    content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.jpg
 ---
 
 # :school: Vue.js Beginner's Training
