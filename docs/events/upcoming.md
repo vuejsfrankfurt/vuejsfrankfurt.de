@@ -2,16 +2,7 @@
 
 <!-- TODO: translate -->
 
-## Beginner's Training - Basics
-
-For everyone who wants to learn Vue.js from scratch we offer an evening class!
-
-**When?** Friday, November 9 @ 16:30</br>
-**Where?** [msg systems ag](locations.md#msg-systems-ag)
-
-[Learn more...](/events/learningvue.md)
-
-## Beginner's Training - Project Setup
+## Beginner's Training - Project Setup with Vue CLI
 
 For everyone who wants to learn Vue.js. This time setting it is all about setting up a project with vue-cli and Webpack.
 

@@ -2,6 +2,18 @@
 
 <!-- TODO: translate -->
 
+## Einsteiger-Training - Basics
+
+Für alle, die die Vue.js Grundlagen lernen wollen, bieten wir nun einen Abendkurs an!
+
+**Recap:** Unser Einstieg am 9. November war ein Erfolg - 100% der angemeldeten Teilnehmer kamen! 
+Glückliche und zufriedene Gesichter nach zwei intensiven Trainingsstunden: Einstieg in Vue.js, Verwendung der Vue.js Entwickler-Tools, Fallstricke in der täglichen Arbeit vermeiden. Danke an msg für die Location und die Getränke!
+
+**Wann?** Freitag, 9. November @ 16:30 Uhr</br>
+**Wo?** [msg systems ag](locations.md#msg-systems-ag)
+
+[mehr...](/events/learningvue.md)
+
 ## Hacktoberfest Frankfurt 2018
 
 Celebrate open source over food, drinks, and great company! Hacktoberfest is all about encouraging meaningful contributions to the open source ecosystem. You do not need to be a developer or know to code to participate.

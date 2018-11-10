@@ -1,15 +1,6 @@
 # :dancer: Kommende Veranstaltungen
 
-## Einsteiger-Training - Basics
-
-Für alle, die die Vue.js Grundlagen lernen wollen, bieten wir nun einen Abendkurs an!
-
-**Wann?** Freitag, 9. November @ 16:30 Uhr</br>
-**Wo?** [msg systems ag](locations.md#msg-systems-ag)
-
-[mehr...](/events/learningvue.md)
-
-## Einsteiger-Training - Projekt Setup
+## Einsteiger-Training - Projekt Setup mit Vue CLI
 
 Für alle, die Vue.js lernen wollen. Dieses Mal steht das Projekt-Setup mit vue-cli und Webpack im Zentrum.
 

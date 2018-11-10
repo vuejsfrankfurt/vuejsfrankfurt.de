@@ -4,6 +4,19 @@
 
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## Beginner's Training - Basics
+
+For everyone who wants to learn Vue.js from scratch we offer an evening class!
+
+**Recap:** Our first training on November 9th was a success - 100% of all registrants came!
+Happy faces after two very intense training hours: learning the Vue.js basics, how to use the developer tools,
+avoiding pitfalls in day-to-day work. Thank you for msg to provide location and drinks!
+
+**When?** Friday, November 9 @ 16:30</br>
+**Where?** [msg systems ag](locations.md#msg-systems-ag)
+
+[Learn more...](/events/learningvue.md)
+
 ## Hacktoberfest Frankfurt 2018
 
 Celebrate open source over food, drinks, and great company! Hacktoberfest is all about encouraging meaningful contributions to the open source ecosystem. You do not need to be a developer or know to code to participate.
