@@ -3,7 +3,7 @@ meta:
   - name: twitter:title
     content: Vue.js Beginner's Training
   - name: twitter:description
-    content: Join us for a biweekly evening class starting on November 9th!
+    content: Our biweekly evening class - November 23rd featuring Vue CLI 3!
   - name: twitter:image
     content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.jpg
 ---
