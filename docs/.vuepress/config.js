@@ -157,7 +157,6 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-title', content: TITLE }],
     ['meta', { name: 'application-name', content: TITLE }],
     ['meta', { property: 'og:locale', content: 'en-US' }],
-    ['meta', { property: 'og:locale:alternate', content: 'de-DE' }],
     ['meta', { property: 'og:description', content: EN_DESC }],
     ['meta', { property: 'og:image', content: 'https://www.vuejsfrankfurt.de/cover.jpg' }],
     ['meta', { property: 'og:title', content: TITLE }],
