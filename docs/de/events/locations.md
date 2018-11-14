@@ -29,3 +29,9 @@ Wir danken allen Firmen und Co-Working-Spaces, die uns ihre Räumlichkeiten zur 
 :houses: Coworking Space</br>
 :link: [mindspace.me](https://mindspace.me/frankfurt)</br>
 :round_pushpin: Hanauer Landstr. 126-128, 60314 Frankfurt
+
+## Skydeck Frankfurt
+
+:houses: Firmenbüro</br>
+:link: [skydeck](https://skydeck.deutschebahn.com/)</br>
+:round_pushpin: Jürgen-Ponto-Platz 1, 60329 Frankfurt
