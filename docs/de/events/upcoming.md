@@ -1,23 +1,5 @@
 # :dancer: Kommende Veranstaltungen
 
-## Einsteiger-Training - Projekt Setup mit Vue CLI
-
-Für alle, die Vue.js lernen wollen. Dieses Mal steht das Projekt-Setup mit vue-cli und Webpack im Zentrum.
-
-**Wann?** Freitag, 23. November @ 16:30 Uhr</br>
-**Wo?** [msg systems ag](locations.md#msg-systems-ag)
-
-[mehr...](/events/learningvue.md)
-
-## Einsteiger-Training - Bauen und Testen
-
-Bereite deine Anwendung für die Produktion vor: Automatische Tests sorgen dafür, dass das, was heute funktioniert, morgen immer noch funktioniert.
-
-**Wann?** Freitag, 7. Dezember @ 16:30 Uhr</br>
-**Wo?** [msg systems ag](locations.md#msg-systems-ag)
-
-[mehr...](/events/learningvue.md)
-
 ## Feiertags Spezial
 
 Feiere die Feiertage mit CSS Frankfurt und Vue.js Frankfurt.

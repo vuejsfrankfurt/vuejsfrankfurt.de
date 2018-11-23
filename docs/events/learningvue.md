@@ -20,21 +20,12 @@ meta:
 
 At our kick-off we met a lot of Vue.js enthusiasts with various levels of Vue.js experience. Some had no or very little experience. There are many free online resources to learn Vue.js, but this might not be the right choice for everyone. 
 
-As an alternative have the "Vue.js Beginner's Training Class": 
-
-1. We provide a space and a trainer for a biweekly training.
-2. You'll need to pre-register for each event and bring your laptop.
-3. The seats are limited and we will charge a fee of 15 EUR per participant and per event.
-
-We've set up the first events, the next one on November 23th. We plan for up to six events in total: each covering a different topic. Registrations are now open!
-
-**[Link to Registration](https://pretix.eu/ahus1/vuejs-beginner/)**
-
-**[Link to FAQ](https://pretix.eu/ahus1/vuejs-beginner/page/frequently-asked-questions/)**
+In November 2018 we provided a "Vue.js Beginner's Training Class" on two evenings to cover different topics. 
+We're looking forward to repeat it with similar or more advanced topics next year!
 
 ## Happy faces after two intense hours!
 
-Our first training on November 9th was a success - 100% of all registrants came!
+Our first training on November 9th 2018 was a success - 100% of all registrants came!
 This helped a lot to organise the event, choose the right room and prepare for the training.
 
 We had two very intense training hours: learning the Vue.js basics, how to use the developer tools,

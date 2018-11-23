@@ -4,6 +4,20 @@
 
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## Beginner's Training - Project Setup with Vue CLI
+
+For everyone who wants to learn Vue.js. This time setting it is all about setting up a project with vue-cli and Webpack.
+
+**Recap:** We dived into Vue CLI 3 and discovered lots of new concepts in the example project on the way: Single File Components, Parent-Child, Router, and how to build a production-ready bundle. 
+We also got a brief glance at axios to access remote APIs.
+Thank you for msg to provide location and drinks!
+
+**When?** Friday, November 23 @ 16:30</br>
+**Where?** [msg systems ag](locations.md#msg-systems-ag)
+
+[Learn more...](/events/learningvue.md)
+
+
 ## Beginner's Training - Basics
 
 For everyone who wants to learn Vue.js from scratch we offer an evening class!

@@ -2,24 +2,6 @@
 
 <!-- TODO: translate -->
 
-## Beginner's Training - Project Setup with Vue CLI
-
-For everyone who wants to learn Vue.js. This time setting it is all about setting up a project with vue-cli and Webpack.
-
-**When?** Friday, November 23 @ 16:30</br>
-**Where?** [msg systems ag](locations.md#msg-systems-ag)
-
-[Learn more...](/events/learningvue.md)
-
-## Beginner's Training - Build and Test
-
-Prepare you application for production: When you build and bundle it, automatic tests will ensure that the things that work today still work tomorrow.
-
-**When?** Friday, December 7 @ 16:30</br>
-**Where?** [msg systems ag](locations.md#msg-systems-ag)
-
-[Learn more...](/events/learningvue.md)
-
 ## Holiday Special
 
 Celebrate the holidays with CSS Frankfurt and Vue.js Frankfurt.

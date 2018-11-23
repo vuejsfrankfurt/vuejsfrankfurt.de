@@ -2,6 +2,18 @@
 
 <!-- TODO: translate -->
 
+## Einsteiger-Training - Projekt Setup mit Vue CLI
+
+Für alle, die Vue.js lernen wollen. Dieses Mal steht das Projekt-Setup mit vue-cli und Webpack im Zentrum.
+
+**Recap:** Wir sind tief in Vue CLI 3 eingestiegen inklusive der Konzepte, die das Standard-Template mitbringt: Single File Components, Parent-Child, Router und der Build für eine produktive App. Am Ende schauten wir kurz auf Axios und den Zugriff auf Remote APIs.
+Danke an msg für die Location und die Getränke!
+
+**Wann?** Freitag, 23. November @ 16:30 Uhr</br>
+**Wo?** [msg systems ag](locations.md#msg-systems-ag)
+
+[mehr...](/events/learningvue.md)
+
 ## Einsteiger-Training - Basics
 
 Für alle, die die Vue.js Grundlagen lernen wollen, bieten wir nun einen Abendkurs an!
