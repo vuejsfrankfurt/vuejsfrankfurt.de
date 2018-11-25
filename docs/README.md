@@ -1,11 +1,11 @@
 ---
 meta:
   - property: og:title
-    content: Welcome to Vue.js Frankfurt
+    content: Vue.js Frankfurt
   - name: description
-    content: Vue.js Frankfurt is a meetup community for anyone interested Vue.js. Join us at one of our events to get to know our community.
+    content: We are a meetup community for anyone interested Vue.js. Join us at one of our events to get to know our community.
   - property: og:description
-    content: Vue.js Frankfurt is a meetup community for anyone interested Vue.js. Join us at one of our events to get to know our community.
+    content: We are a meetup community for anyone interested Vue.js. Join us at one of our events to get to know our community.
   - property: og:image
     content: https://www.vuejsfrankfurt.de/cover.jpg
 ---
