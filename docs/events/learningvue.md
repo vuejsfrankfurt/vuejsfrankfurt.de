@@ -6,7 +6,7 @@ meta:
     content: Free Online Trainings and looking back at our evening class
   - property: og:description
     content: Free Online Trainings and looking back at our evening class
-  - name: twitter:image
+  - name: og:image
     content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.jpg
 ---
 
