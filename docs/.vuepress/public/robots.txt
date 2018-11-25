@@ -3,3 +3,5 @@ User-agent: *
 # people can't use google to look up the contact information
 # or problematic passages ("vulnerabilities") in impressum and privacy policy
 Disallow: /legal
+# German translation is incomplete, English version "leads". Avoids duplicate content on Google.
+Disallow: /de
