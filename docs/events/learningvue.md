@@ -2,8 +2,8 @@
 meta:
   - name: twitter:title
     content: Vue.js Beginner's Training
-  - property: og:description
-    name: description
+  - name: description
+    property: og:description
     content: Free Online Trainings and looking back at our evening class
   - name: twitter:image
     content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.jpg
