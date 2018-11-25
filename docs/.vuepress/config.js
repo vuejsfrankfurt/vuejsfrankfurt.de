@@ -156,14 +156,7 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#292a2e' }],
     ['meta', { name: 'apple-mobile-web-app-title', content: TITLE }],
     ['meta', { name: 'application-name', content: TITLE }],
-    ['meta', { property: 'og:locale', content: 'en-US' }],
-    ['meta', { property: 'og:description', content: EN_DESC }],
-    ['meta', { property: 'og:image', content: 'https://www.vuejsfrankfurt.de/cover.jpg' }],
-    ['meta', { property: 'og:title', content: TITLE }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:creator', content: '@vuejsfrankfurt' }],
-    ['meta', { name: 'twitter:description', content: EN_DESC }],
-    ['meta', { name: 'twitter:image', content: 'https://www.vuejsfrankfurt.de/cover.jpg' }],
-    ['meta', { name: 'twitter:title', content: TITLE }]
   ],
 };
