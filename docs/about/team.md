@@ -1,4 +1,14 @@
-
+---
+meta:
+  - property: og:title
+    content: The Team of Vue.js Frankfurt
+  - name: description
+    content: Meet the team behind Vue.js Frankfurt!
+  - property: og:description
+    content: Meet the team behind Vue.js Frankfurt!
+  - property: og:image
+    content: https://www.vuejsfrankfurt.de/cover.jpg
+---
 
 # :dancers: The Team
 

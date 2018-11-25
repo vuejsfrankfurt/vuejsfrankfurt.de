@@ -1,12 +1,12 @@
 ---
 meta:
-  - name: og:title
+  - property: og:title
     content: Vue.js Beginner's Training
   - name: description
     content: Free Online Trainings and looking back at our evening class
   - property: og:description
     content: Free Online Trainings and looking back at our evening class
-  - name: og:image
+  - property: og:image
     content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.jpg
 ---
 

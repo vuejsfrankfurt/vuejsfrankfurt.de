@@ -1,3 +1,15 @@
+---
+meta:
+  - property: og:title
+    content: Past Events of Vue.js Frankfurt
+  - name: description
+    content: These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
+  - property: og:description
+    content: These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
+  - property: og:image
+    content: https://www.vuejsfrankfurt.de/cover.jpg
+---
+
 # :hourglass: Past Events
 
 <!-- TODO: translate -->

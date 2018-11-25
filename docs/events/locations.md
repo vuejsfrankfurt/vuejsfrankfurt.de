@@ -1,3 +1,15 @@
+---
+meta:
+  - property: og:title
+    content: Locations of Vue.js Frankfurt Meetups
+  - name: description
+    content: Vue.js Frankfurt hosts events at various location in and around Frankfurt.
+  - property: og:description
+    content: Vue.js Frankfurt hosts events at various location in and around Frankfurt.
+  - property: og:image
+    content: https://www.vuejsfrankfurt.de/cover.jpg
+---
+
 # :houses: Locations
 
 Vue.js Frankfurt hosts events at various location in and around Frankfurt. You can learn more about them here.

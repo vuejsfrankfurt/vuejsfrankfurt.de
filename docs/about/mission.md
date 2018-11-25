@@ -1,3 +1,15 @@
+---
+meta:
+  - property: og:title
+    content: Mission Vue.js Frankfurt
+  - name: description
+    content: Be the central meeting point for all things Vue.js in the Rhein Main area
+  - property: og:description
+    content: Be the central meeting point for all things Vue.js in the Rhein Main area
+  - property: og:image
+    content: https://www.vuejsfrankfurt.de/cover.jpg
+---
+
 # :rocket: Our Mission
 
 - Be the central meeting point for all things Vue.js in the Rhein Main area and enrich the Rhein-Main tech community.

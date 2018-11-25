@@ -1,3 +1,15 @@
+---
+meta:
+  - property: og:title
+    content: Reporting Guidelines COC Vue.js Frankfurt
+  - name: description
+    content: If you are subject to or witness unacceptable behavior, or have any other concerns, please contact us
+  - property: og:description
+    content: If you are subject to or witness unacceptable behavior, or have any other concerns, please contact us
+  - property: og:image
+    content: https://www.vuejsfrankfurt.de/cover.jpg
+---
+
 # :police_car: Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please contact us at ****report@vuejsfrankfurt.de**** or reach out any of our [team members](/#meet-the-team).

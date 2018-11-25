@@ -1,3 +1,15 @@
+---
+meta:
+  - property: og:title
+    content: Code of Conduct Vue.js Frankfurt
+  - name: description
+    content: A primary goal of Vue.js Frankfurt is to be inclusive to the largest number of community contributors
+  - property: og:description
+    content: A primary goal of Vue.js Frankfurt is to be inclusive to the largest number of community contributors
+  - property: og:image
+    content: https://www.vuejsfrankfurt.de/cover.jpg
+---
+
 # :handshake: Code of Conduct
 
 ## 1. Purpose

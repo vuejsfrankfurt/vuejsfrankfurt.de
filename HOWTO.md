@@ -8,11 +8,13 @@ You'll need to add the following header using frontmatter (example):
 
     ---
     meta:
-      - name: twitter:title
+      - property: og:title
         content: Vue.js Beginner's Training
-      - name: twitter:description
-        content: Join us for a biweekly evening class starting on November 9th!
-      - name: twitter:image
+      - name: description
+        content: Free Online Trainings and looking back at our evening class
+      - property: og:description
+        content: Free Online Trainings and looking back at our evening class
+      - property: og:image
         content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.jpg
     ---
 
