@@ -7,8 +7,8 @@
     "blc-external": "blc http://127.0.0.1:5000 -ro --filter-level 0"
   },
   "devDependencies": {
+    "broken-link-checker": "^0.7.8",
     "serve": "^10.0.2",
-    "vuepress": "^0.14.4",
-    "broken-link-checker": "^0.7.8"
+    "vuepress": "^0.14.4"
   }
 }
