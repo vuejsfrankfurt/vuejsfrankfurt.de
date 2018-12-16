@@ -12,9 +12,23 @@ meta:
 
 # :hourglass: Past Events
 
-<!-- TODO: translate -->
-
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
+
+## Holiday Special
+
+Celebrate the holidays with CSS Frankfurt and Vue.js Frankfurt.
+
+**Recap:** About 50 Vue.js and CSS enthusiasts met at Skydeck that provided us lots of space and a great night time view over Frankfurt. Victoria, Anett and Alex started with a short review of 2018 and preview of the events to come in 2019.
+
+Afterwards seven teams showed their knowledge about Web technologies in a Quiz: Victoria presented 10 questions of which team _undefined_ scored 9/10. 
+The winning team was the first to pick from a variety of software licenses, tech gadgets, books and conference swag. Thank you Smashing Magazine, JetBrains and msg to fill our price box.
+
+Thank you Skydeck for sponsoring drinks and providing the location, and melsicon for sponsoring the food! 
+
+**When?** Friday, December 14 @ 18:00</br>
+**Where?** [Skydeck Frankfurt](locations.md#skydeck-frankfurt)
+
+[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/255141413/)
 
 ## Beginner's Training - Project Setup with Vue CLI
 

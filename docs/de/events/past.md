@@ -1,6 +1,21 @@
 # :hourglass: Vergangene Veranstaltungen
 
-<!-- TODO: translate -->
+## Feiertags Spezial
+
+Feiere die Feiertage mit CSS Frankfurt und Vue.js Frankfurt.
+
+**Recap:** 50 Vue.js- und CSS-Begeisterte trafen sich im Skydeck, das viel Platz und einen tollen Blick über das nächtliche Frankfurt bot. Victoria, Anett und Alex begannen mit einem kurzen Rückblick auf 2018 und einen Ausblick auf die geplanten Veranstaltungen in 2019.
+
+Anschließend konnten 7 Teams ihr Wissen rund um Web-Technologien unter Beweis stellen: Victoria präsentierte 10 Fragen, von denen das Team _undefined_ 9 von 10 richtig beantwortete. 
+Das Gewinnerteam durfte als erstes aus einer Auswahl von Software-Lizenzen, Tech-Gadgets, Büchern und Konferenz-Mitbringseln auswählen. Danke an Smashing Magazine, JetBrains und msg für die reichhaltig gefüllte Preis-Kiste!
+
+Danke an Skydeck für Getränke und die Location, danke an melsicon für das Essen! 
+
+**Wann?** Freitag, 14. Oktober @ 18:00 Uhr</br>
+**Wo?** [Skydeck Frankfurt](locations.md#skydeck-frankfurt)
+
+[mehr...](https://www.meetup.com/vuejsfrankfurt/events/255141413/)
+
 
 ## Einsteiger-Training - Projekt Setup mit Vue CLI
 

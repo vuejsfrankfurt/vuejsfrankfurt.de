@@ -1,14 +1,5 @@
 # :dancer: Kommende Veranstaltungen
 
-## Feiertags Spezial
-
-Feiere die Feiertage mit CSS Frankfurt und Vue.js Frankfurt.
-
-**Wann?** Freitag, 14. Oktober @ 18:00 Uhr</br>
-**Wo?** [Skydeck Frankfurt](locations.md#skydeck-frankfurt)
-
-[mehr...](https://www.meetup.com/vuejsfrankfurt/events/255141413/)
-
 ## Event Februar 2019
 
 Haltet euch den Abend frei. Wir planen aktuell noch den Sprecher. 
