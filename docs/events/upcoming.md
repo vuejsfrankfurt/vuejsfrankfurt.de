@@ -14,11 +14,13 @@ meta:
 
 <!-- TODO: translate -->
 
-## Event February 2019
+## February 2019: Next level Vuex - Undo & Redo for your Users
 
-Mark this date in your calendar! We are in the process of organizing a speaker.
+Today's event will be all about Vuex and state handling in Vue.js apps.
 
-We collected many ideas during the Kickoff event - please reach out to us for additional ideas, locations and sponsors!
+In the main talk, Niklas will give us a deep dive how to use Vuex to delight your users with undo & redo support! The intro talk just before the main talk will cover the basics and when to use Vuex for state handling.
+
+With these two talks cover for both beginners and experts in the field of Vue.js and Vuex.
 
 **When?** Thursday, February 07 @ 18:00</br>
 **Where?** [WeWork Neue Rothofstraße](locations.md#wework-neue-rothofstrasse)
