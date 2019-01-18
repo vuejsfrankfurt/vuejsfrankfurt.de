@@ -1,7 +1,7 @@
 # :rocket: Unser Ziel
 
-- Be the central meeting point for all things Vue.js in the Rhein Main area and enrich the Rhein-Main tech community. Der zentrale
+- Wir sind der zentrale Treffpunkt für alles rund um Vue.js im Rhein-Main-Gebiet und bereichern die Rhein-Main-Tech-Community.
 
-- Be a supportive, inclusive and diverse community that welcomes anyone who is interested in Vue.js, design on the web or simply wants to be a part of our community.
+- Wir sind eine unterstützende, inklusive und vielfältige Community, die jeden willkommen heißt, der sich für Vue.js interessiert, im Web gestaltet oder einfach nur ein Teil unserer Community sein möchte.
 
-- Organise events focused on Vue.js related topics in various formats including, but not limited to talks, coding nights and social events.
+- Wir organisieren Veranstaltungen, die sich auf Vue.js bezogene Themen konzentrieren, in verschiedenen Formaten, einschließlich, aber nicht beschränkt auf Vorträge, Programmierabende und gesellschaftliche Ereignisse.
