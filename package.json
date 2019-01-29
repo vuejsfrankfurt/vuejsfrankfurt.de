@@ -3,8 +3,8 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "serve": "serve -n docs/.vuepress/dist",
-    "blc": "blc http://127.0.0.1:5000 -e -ro --filter-level 0",
-    "blc-external": "blc http://127.0.0.1:5000 -ro --filter-level 0"
+    "blc": "blc http://127.0.0.1:5000 -e -ro -f --filter-level 2",
+    "blc-external": "blc http://127.0.0.1:5000 -ro --filter-level 2"
   },
   "devDependencies": {
     "broken-link-checker": "^0.7.8",
