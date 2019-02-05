@@ -1,5 +1,7 @@
 # Welcome to Vue.js Frankfurt :tada:
 
+![Netlify Status](https://api.netlify.com/api/v1/badges/034dbd93-0b93-49ba-90a0-a00a45eefd48/deploy-status)
+
 Vue.js Frankfurt is a meetup community for anyone interested in Vue.js. Join us at one of our events to get to know our community. We hope to see you around!
 
 ## Contribute
