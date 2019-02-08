@@ -14,6 +14,23 @@ meta:
 
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## February 2019: Next level Vuex - Undo & Redo for your Users
+
+Today's event was all about Vuex and state handling in Vue.js apps.
+
+In the main talk, Niklas will gave us a deep dive how to use Vuex to delight your users with undo & redo support! The intro talk just before the main talk covered the basics and when to use Vuex for state handling. These two talks covered for both beginners and experts in the field of Vue.js and Vuex.
+
+**Recap:** About 35 Vue.js enthusiasts met; about half of them had already worked with Vuex before. Niklas gave us insights how to extend Vuex by writing your own plugin and the hooks available to do that. With this talk and the good Q&A session afterwards we've all learned something new today! With drinks sponsored by WeWork and food sponsored by msg this was a great evening for everyone.
+
+**Handling State in Vue.js Applications:** [Slides on Speakerdeck](https://speakerdeck.com/ahus1/handling-state-in-vue-dot-js-applications) and [code on GitHub](https://github.com/ahus1/state-handling-in-vue)
+
+**Next level Vuex - Undo & Redo for your Users:** (soon) 
+
+**When?** Thursday, February 07 @ 18:00</br>
+**Where?** [WeWork Neue Rothofstraße](locations.md#wework-neue-rothofstrasse)
+
+[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/255459806/)
+
 ## Holiday Special
 
 Celebrate the holidays with CSS Frankfurt and Vue.js Frankfurt.

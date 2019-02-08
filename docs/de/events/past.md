@@ -1,5 +1,24 @@
 # :hourglass: Vergangene Veranstaltungen
 
+## Februar 2019: Next level Vuex - Undo & Redo für Deine Nutzer
+
+Heute drehte sich alles rund um Vuex und wie ihr Zustand in Vue.js-Anwendungen haltet.
+
+Im Hauptvortrag zeigte Niklas, wie ihr mit Vuex eure Nutzer mit Undo und Redo glücklich macht! Im Einführungsvortrag davor zeigte Alexander die Grundlagen von Vuex und wie ihr es in Vue.js einbindet. 
+
+Mit diesen zwei Vorträgen war sowohl für Anfänger als auch für Experten etwas dabei.
+
+**Recap:** Circa 35 Vue.js-Begeisterte trafen sich; die Hälfte hatte schon mit Vuex gearbeitet. Niklas zeigte uns, wie man Vuex mit einem selbst geschriebenen Plugin erweitert. Durch diesen Vortrag und die ausführliche Frage-Antwort-Runde haben wir einen sehr guten Einblick in das Thema gewonnen. Vielen Dank an unsere Sponsoren WeWork und msg - es war ein toller Abend für uns alle.
+
+**Handling State in Vue.js Applications:** [Slides auf Speakerdeck](https://speakerdeck.com/ahus1/handling-state-in-vue-dot-js-applications) und [Code auf GitHub](https://github.com/ahus1/state-handling-in-vue)
+
+**Next level Vuex - Undo & Redo for your Users:** (bald verfügbar) 
+
+**Wann?** Donnerstag, 7. Februar @ 18:00 Uhr</br>
+**Wo?** [WeWork Neue Rothofstraße](locations.md#wework-neue-rothofstrasse)
+
+[mehr...](https://www.meetup.com/vuejsfrankfurt/events/255459806/)
+
 ## Feiertags Spezial
 
 Feiere die Feiertage mit CSS Frankfurt und Vue.js Frankfurt.
