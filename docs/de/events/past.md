@@ -12,7 +12,7 @@ Mit diesen zwei Vorträgen war sowohl für Anfänger als auch für Experten etwa
 
 **Handling State in Vue.js Applications:** [Slides auf Speakerdeck](https://speakerdeck.com/ahus1/handling-state-in-vue-dot-js-applications) und [Code auf GitHub](https://github.com/ahus1/state-handling-in-vue)
 
-**Next level Vuex - Undo & Redo for your Users:** (bald verfügbar) 
+**Next level Vuex - Undo & Redo for your Users:** [Slides auf Speakerdeck](https://speakerdeck.com/nlochschmidt/next-level-vuex) und [Code auf GitLab](https://gitlab.com/nlochschmidt/vuex-undo-redo-talk)
 
 **Wann?** Donnerstag, 7. Februar @ 18:00 Uhr</br>
 **Wo?** [WeWork Neue Rothofstraße](locations.md#wework-neue-rothofstrasse)

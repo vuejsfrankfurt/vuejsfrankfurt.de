@@ -24,7 +24,7 @@ In the main talk, Niklas will gave us a deep dive how to use Vuex to delight you
 
 **Handling State in Vue.js Applications:** [Slides on Speakerdeck](https://speakerdeck.com/ahus1/handling-state-in-vue-dot-js-applications) and [code on GitHub](https://github.com/ahus1/state-handling-in-vue)
 
-**Next level Vuex - Undo & Redo for your Users:** (soon) 
+**Next level Vuex - Undo & Redo for your Users:** [Slides on Speakerdeck](https://speakerdeck.com/nlochschmidt/next-level-vuex) and [code on GitLab](https://gitlab.com/nlochschmidt/vuex-undo-redo-talk)
 
 **When?** Thursday, February 07 @ 18:00</br>
 **Where?** [WeWork Neue Rothofstraße](locations.md#wework-neue-rothofstrasse)
