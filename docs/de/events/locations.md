@@ -22,16 +22,22 @@ Wir danken allen Firmen und Co-Working-Spaces, die uns ihre Räumlichkeiten zur 
 
 :houses: Coworking Space</br>
 :link: [WeWork Neue Rothofstraße](https://www.wework.com/buildings/neue-rothofstrasse-13-19--frankfurt)</br>
-:round_pushpin: [Neue Rothofstraße 13-19, 60313 Frankfurt](https://goo.gl/maps/G7N5yDs5GFm)
+:round_pushpin: [Neue Rothofstraße 13-19, 60313 Frankfurt am Main](https://goo.gl/maps/G7N5yDs5GFm)
 
 ## Mindspace Eurotheum
 
 :houses: Coworking Space</br>
 :link: [mindspace.me](https://mindspace.me/frankfurt)</br>
-:round_pushpin: Hanauer Landstr. 126-128, 60314 Frankfurt
+:round_pushpin: Hanauer Landstr. 126-128, 60314 Frankfurt am Main
 
 ## Skydeck Frankfurt
 
 :houses: Firmenbüro</br>
 :link: [skydeck](https://skydeck.deutschebahn.com/)</br>
-:round_pushpin: Jürgen-Ponto-Platz 1, 60329 Frankfurt
+:round_pushpin: Jürgen-Ponto-Platz 1, 60329 Frankfurt am Main
+
+## &lt;code&gt;monauts Frankfurt
+
+:houses: Firmenbüro</br>
+:link: [&lt;code&gt;monauts](https://codemonauts.com/)</br>
+:round_pushpin: Günthersburgallee 19, 60316 Frankfurt am Main
