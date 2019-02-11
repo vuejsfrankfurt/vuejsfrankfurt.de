@@ -23,11 +23,11 @@ meta:
 At our kick-off we met a lot of Vue.js enthusiasts with various levels of Vue.js experience. Some had no or very little experience. There are many free online resources to learn Vue.js, but this might not be the right choice for everyone. 
 
 Starting from February 20th we're introduce you to Vue Basics, Vue CLI, Remote APIs and Unit Testing.
-This time we'll give the training in German. Registrations are now open!
+This time we'll give the training in <del>German</del> English again!. Registrations are now open!
 
-**[Link to Registration](https://pretix.eu/ahus1/vuejs-s2/)**
+**[Link to Registration](https://pretix.eu/locale/set?locale=en&next=/ahus1/vuejs-s2/%3F)**
 
-**[Link to FAQ](https://pretix.eu/ahus1/vuejs-s2/page/frequently-asked-questions/)**
+**[Link to FAQ](https://pretix.eu/locale/set?locale=en&next=/ahus1/vuejs-s2/page/frequently-asked-questions/%3F)**
 
 ## Happy faces after two intense hours!
 
