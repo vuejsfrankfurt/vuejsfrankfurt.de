@@ -68,7 +68,6 @@ module.exports = {
             title: 'Community',
             collapsable: false,
             children: [
-              '/community/forums',
               '/community/community'
             ]
           },
@@ -128,7 +127,6 @@ module.exports = {
             title: 'Community',
             collapsable: false,
             children: [
-              '/de/community/forums',
               '/de/community/community'
             ]
           },

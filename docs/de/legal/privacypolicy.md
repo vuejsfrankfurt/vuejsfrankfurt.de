@@ -143,6 +143,4 @@ Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten, wei
 
 - Meetup (WeWork HQ, 115 W 18th St., New York, NY 10011, USA) - Datenschutzerklärung: https://www.meetup.com/de-DE/privacy/
 
-- Spectrum (Space Program Inc.) - Datenschutzerklärung: https://spectrum.chat/privacy
-
 Vom Websiteinhaber angepasst. [Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke](https://datenschutz-generator.de/)

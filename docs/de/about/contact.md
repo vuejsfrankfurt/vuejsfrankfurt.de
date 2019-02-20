@@ -1,6 +1,6 @@
 # :love_letter: Kontakt
 
-<!-- TODO: Add email, twitter, spectrum, github -->
+<!-- TODO: Add email, twitter, github -->
 
 Wir freuen uns von dir zu hören!
 Egal, ob du Fragen, Anregungen, Feedback senden oder einfach nur Hallo sagen möchtest, schreib uns einfach eine Nachricht:

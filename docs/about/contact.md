@@ -12,7 +12,7 @@ meta:
 
 # :love_letter: Contact Us
 
-<!-- TODO: Add email, twitter, spectrum, github -->
+<!-- TODO: Add email, twitter, github -->
 
 We would love to hear from you, whether you have any questions, concerns, feedback or just want to say hi. Please don't hesitate to reach out to us, our inbox is always open!
 
