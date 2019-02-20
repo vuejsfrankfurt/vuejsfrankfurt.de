@@ -14,6 +14,19 @@ meta:
 
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## Beginner's Training - Basics
+
+Starting from February 20th we introduce you to different topics every week. We will meet every week until March 13th.
+
+This first event will cover Vue.js' basics, using the developer tools and projects without webpack. Bring your laptop, as this is a hands-on workshop.
+
+**Recap:** 10 Vue.js learners met. Thank you \<code\>monauts for the hospitality and the central location! We've covered the basics, and every learner now has a working Vue.js development environment on her or his laptop! Next week will cover vue-cli with full build automation and hot reloading.
+
+**When?** Wednesday, February 20 @ 16:30</br>
+**Where?** [&lt;code&gt;monauts](locations.md#code-monauts-frankfurt)
+
+[Learn more...](/events/learningvue.md)
+
 ## February 2019: Next level Vuex - Undo & Redo for your Users
 
 Today's event was all about Vuex and state handling in Vue.js apps.

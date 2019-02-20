@@ -3,9 +3,9 @@ meta:
   - property: og:title
     content: Vue.js Beginner's Training
   - name: description
-    content: New Evening Class starts on February 20th!
+    content: On February 27th we'll cover Vue-CLI - full build automation and hot reload!
   - property: og:description
-    content: New Evening Class starts on February 20th!
+    content: On February 27th we'll cover Vue-CLI - full build automation and hot reload!
   - property: og:image
     content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.jpg
 ---
@@ -23,7 +23,7 @@ meta:
 At our kick-off we met a lot of Vue.js enthusiasts with various levels of Vue.js experience. Some had no or very little experience. There are many free online resources to learn Vue.js, but this might not be the right choice for everyone. 
 
 Starting from February 20th we're introduce you to Vue Basics, Vue CLI, Remote APIs and Unit Testing.
-This time we'll give the training in <del>German</del> English again!. Registrations are now open!
+This time we'll give the training in English again! Registrations are now open!
 
 **[Link to Registration](https://pretix.eu/locale/set?locale=en&next=/ahus1/vuejs-s2/%3F)**
 

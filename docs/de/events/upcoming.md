@@ -1,19 +1,5 @@
 # :dancer: Kommende Veranstaltungen
 
-## Einsteiger Training - Grundlagen
-
-Ab dem 20. Februar stellen wir jede Woche bis 13. März ein Thema vor.
-
-Das erste Event stellt die Vue.js Grundlagen, Developer Tools und Projekte ohne Webpack vor.
-Bringe deinen Laptop mit, da dies ein Mitmach-Workshop ist.
-
-Die Teilnahme an dieser Veranstaltung reserviert euch eine Teilnahme an der Veranstaltung am 27. February (es gelten Bedingungen).
-
-**Wann?** Mittwoch, 20. February @ 16:30 Uhr</br>
-**Wo?** [&lt;code&gt;monauts](locations.md#code-monauts-frankfurt)
-
-[Learn more...](/events/learningvue.md)
-
 ## Einsteiger Training - Projekte mit Vue CLI
 
 Ab dem 20. Februar stellen wir jede Woche bis 13. März ein Thema vor.

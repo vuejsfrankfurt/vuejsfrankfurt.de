@@ -1,5 +1,19 @@
 # :hourglass: Vergangene Veranstaltungen
 
+## Einsteiger Training - Grundlagen
+
+Ab dem 20. Februar stellen wir jede Woche bis 13. März ein Thema vor.
+
+Das erste Event stellt die Vue.js Grundlagen, Developer Tools und Projekte ohne Webpack vor.
+Bringe deinen Laptop mit, da dies ein Mitmach-Workshop ist.
+
+**Recap:** 10 Vue.js Lernende trafen sich heute. Danke an \<code\>monauts für die Gastfreundschaft und die tolle zentrale Location! Wir sind die Grundlagen durchgegangen, und jeder hat nun eine Vue.js-Entwicklungsumgebung auf seinem Rechner! Nächste Woche geht es um vue-cli mit vollständiger Build-Automatisierung und Hot-Reloading.
+
+**Wann?** Mittwoch, 20. February @ 16:30 Uhr</br>
+**Wo?** [&lt;code&gt;monauts](locations.md#code-monauts-frankfurt)
+
+[Learn more...](/events/learningvue.md)
+
 ## Februar 2019: Next level Vuex - Undo & Redo für Deine Nutzer
 
 Heute drehte sich alles rund um Vuex und wie ihr Zustand in Vue.js-Anwendungen haltet.
