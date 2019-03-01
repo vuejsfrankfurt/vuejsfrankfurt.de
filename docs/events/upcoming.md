@@ -12,19 +12,6 @@ meta:
 
 # :dancer: Upcoming Events
 
-## Beginner's Training - Projects with Vue CLI
-
-Starting from February 20th we introduce you to different topics every week. We will meet every week until March 13th.
-
-This second event will cover Vue CLI 3, Single File Components, and the Component Lifecycle. Bring your laptop, as this is a hands-on workshop.
-
-Participating in this event will reserve you a seat in the event on March 6th (conditions apply).
-
-**When?** Wednesday, February 27 @ 16:30</br>
-**Where?** [&lt;code&gt;monauts](locations.md#code-monauts-frankfurt)
-
-[Learn more...](/events/learningvue.md)
-
 ## Beginner's Training - Remote APIs w/ Axios
 
 Starting from February 20th we introduce you to different topics every week. We will meet every week until March 13th.

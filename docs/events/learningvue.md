@@ -3,9 +3,9 @@ meta:
   - property: og:title
     content: Vue.js Beginner's Training
   - name: description
-    content: On February 27th we'll cover Vue-CLI - full build automation and hot reload!
+    content: On March 6th we'll cover Axios - accessing remote APIs from Vue!
   - property: og:description
-    content: On February 27th we'll cover Vue-CLI - full build automation and hot reload!
+    content: On March 6th we'll cover Axios - accessing remote APIs from Vue!
   - property: og:image
     content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.jpg
 ---

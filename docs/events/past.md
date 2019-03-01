@@ -14,6 +14,20 @@ meta:
 
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## Beginner's Training - Projects with Vue CLI
+
+Starting from February 20th we introduce you to different topics every week. We will meet every week until March 13th.
+
+This second event will cover Vue CLI 3, Single File Components, and the Component Lifecycle. Bring your laptop, as this is a hands-on workshop.
+
+**Recap:** Seven Vue.js learners met. Thank you \<code\>monauts for the hospitality and the central location! We added node and npm to our stack, and everyone enjoyed the automatic hot-reload while developing. Next week we'll connect remote APIs using Axios.
+
+**When?** Wednesday, February 27 @ 16:30</br>
+**Where?** [&lt;code&gt;monauts](locations.md#code-monauts-frankfurt)
+
+[Learn more...](/events/learningvue.md)
+
+
 ## Beginner's Training - Basics
 
 Starting from February 20th we introduce you to different topics every week. We will meet every week until March 13th.

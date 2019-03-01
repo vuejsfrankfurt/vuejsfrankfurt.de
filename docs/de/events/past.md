@@ -1,5 +1,19 @@
 # :hourglass: Vergangene Veranstaltungen
 
+## Einsteiger Training - Projekte mit Vue CLI
+
+Ab dem 20. Februar stellen wir jede Woche bis 13. März ein Thema vor.
+
+Das zweite Event zeigt euch den Umgang mit Vue CLI 3, Single File Components, und den Component Lifecycle. 
+Bringe deinen Laptop mit, da dies ein Mitmach-Workshop ist.
+
+**Recap:** Sieben Vue.js Lernende trafen sich heute. Danke an \<code\>monauts für die Gastfreundschaft und die tolle zentrale Location! Mit node und npm haben wir nun weitere Werkzeuge hinzugefügt und alle freuten sich über das automatische hot-reload während der Entwicklung. Nächste Woche binden wir Remote-APIs mit Axios an.
+
+**Wann?** Mittwoch, 27. February @ 16:30 Uhr</br>
+**Wo?** [&lt;code&gt;monauts](locations.md#code-monauts-frankfurt)
+
+[Learn more...](/events/learningvue.md)
+
 ## Einsteiger Training - Grundlagen
 
 Ab dem 20. Februar stellen wir jede Woche bis 13. März ein Thema vor.
