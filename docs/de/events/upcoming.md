@@ -28,18 +28,6 @@ Die Teilnahme an dieser Veranstaltung reserviert euch eine Teilnahme an der Vera
 
 [Learn more...](/events/learningvue.md)
 
-## Event März 2019
-
-Haltet euch den Abend frei. Wir planen aktuell noch den Veranstaltungsort und den Sprecher. 
-
-Auf dem Kickoff haben wir viele Ideen gesammelt - bitte kontaktiert uns, wenn ihr weitere Ideen zum Veranstaltungsort und Sprecher habt!
-
-**Wann?** Dienstag, 12. März @ 18:00 Uhr</br>
-**Wo?** TBA
-
-[mehr...](https://www.meetup.com/vuejsfrankfurt/events/255460169/)
-
-
 ## Einsteiger Training - Testen with Jest
 
 Ab dem 20. Februar stellen wir jede Woche bis 13. März ein Thema vor.

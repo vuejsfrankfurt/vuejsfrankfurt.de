@@ -38,17 +38,6 @@ Participating in this event will reserve you a seat in the event on March 13th (
 
 [Learn more...](/events/learningvue.md)
 
-## Event March 2019
-
-Mark this date in your calendar! We are in the process of organizing a venue and a speaker.
-
-We collected many ideas during the Kickoff event - please reach out to us for additional ideas, locations and sponsors!
-
-**When?** Tuesday, March 12 @ 18:00</br>
-**Where?** TBA
-
-[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/255460169/)
-
 ## Beginner's Training - Testing with Jest
 
 Starting from February 20th we introduce you to different topics every week. We will meet every week until March 13th.
