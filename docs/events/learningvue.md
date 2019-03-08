@@ -3,9 +3,9 @@ meta:
   - property: og:title
     content: Vue.js Beginner's Training
   - name: description
-    content: On March 6th we'll cover Axios - accessing remote APIs from Vue!
+    content: On March 13th we'll cover Unit Testing for Vue with Jest!
   - property: og:description
-    content: On March 6th we'll cover Axios - accessing remote APIs from Vue!
+    content: On March 13th we'll cover Unit Testing for Vue with Jest!
   - property: og:image
     content: https://www.vuejsfrankfurt.de/images/frank_learning_vue_twitter.jpg
 ---

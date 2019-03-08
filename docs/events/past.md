@@ -14,6 +14,17 @@ meta:
 
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## Beginner's Training - Remote APIs w/ Axios
+
+This third event will cover the concepts of watch/computed in Vuejs and how to use Axios to access remote APIs. Bring your laptop, as this is a hands-on workshop.
+
+**Recap:** Eight Vue.js learners met. Thank you \<code\>monauts for the hospitality and the central location! We talked about the nuances of _computed_ and _watch_ and connected our components to the GitHub API using Axios! Next week it will be all about Unit Testing für Vue mit Jest.
+
+**When?** Wednesday, March 6 @ 16:30</br>
+**Where?** [&lt;code&gt;monauts](locations.md#code-monauts-frankfurt)
+
+[Learn more...](/events/learningvue.md)
+
 ## Beginner's Training - Projects with Vue CLI
 
 Starting from February 20th we introduce you to different topics every week. We will meet every week until March 13th.
