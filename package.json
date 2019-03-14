@@ -10,5 +10,11 @@
     "broken-link-checker": "^0.7.8",
     "serve": "^10.0.2",
     "vuepress": "^0.14.4"
+  },
+  "__comment": {
+    "1": "remove resolutions once https://github.com/vuejs/vuepress/issues/1417 is fixed"
+  },
+  "resolutions": {
+    "webpack-dev-middleware": "3.6.0"
   }
 }
