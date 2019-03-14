@@ -1,5 +1,17 @@
 # :hourglass: Vergangene Veranstaltungen
 
+## Einsteiger Training - Testen with Jest
+
+Das vierte und letzte Event zeigt, wie das Parent/Child-Konzept in Vue funktioniert und ihr [Komponenten mit Jest testet](https://vue-test-utils.vuejs.org/guides/#testing-single-file-components-with-jest).
+Bringe deinen Laptop mit, da dies ein Mitmach-Workshop ist.
+
+**Recap:** Neun Vue.js Lerndente trafen sich heute. Danke an \<code\>monauts für die Gastfreundschaft und die tolle zentrale Location! Es ging das Schreiben von Tests, aber auch wie viele Tests es braucht, und Snapshot-Tests vs. manuell geschriebene Tests. Das Vue.js Einsteiger Training wird eines Tages zurückkehren. Wenn ihr eine Location oder neue Themen habt, dann sagt uns Bescheid!
+
+**Wann?** Mittwoch, 13. März @ 16:30 Uhr</br>
+**Wo?** [&lt;code&gt;monauts](locations.md#code-monauts-frankfurt)
+
+[mehr...](/events/learningvue.md)
+
 ## Einsteiger Training - Remote APIs mit Axios
 
 Das dritte Event zeigt euch die Konzepte zu watch/computed und wie ihr mit Axios auf Remote APIs zugreift. 

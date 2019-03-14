@@ -14,6 +14,17 @@ meta:
 
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## Beginner's Training - Testing with Jest
+
+This fourth and final event covered the concept of parent/child and how to [test unit components using Jest](https://vue-test-utils.vuejs.org/guides/#testing-single-file-components-with-jest). Bring your laptop, as this is a hands-on workshop.
+
+**Recap:** Nine Vue.js learners met. Thank you \<code\>monauts for the hospitality and the central location! We talked about when to write tests, how many test, and single tests vs. snapshots. The Vue.js training will return one day. If you want to suggest a location or new topics for the next season, please step forward!
+
+**When?** Wednesday, March 13 @ 16:30</br>
+**Where?** [&lt;code&gt;monauts](locations.md#code-monauts-frankfurt)
+
+[Learn more...](/events/learningvue.md)
+
 ## Beginner's Training - Remote APIs w/ Axios
 
 This third event will cover the concepts of watch/computed in Vuejs and how to use Axios to access remote APIs. Bring your laptop, as this is a hands-on workshop.
