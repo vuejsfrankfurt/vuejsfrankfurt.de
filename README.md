@@ -18,8 +18,10 @@ To setup this project locally, please follow these instructions:
 
 1. Fork this repository
 2. Clone the forked repository
-3. Run `yarn` or `npm install`
-4. Dev mode w/ hot-reload: `yarn dev` or `npm run dev`
+3. Run `yarn install`
+4. Dev mode w/ hot-reload: `yarn dev`
+
+(As this repository contains a `yarn.lock` file, we recommend you use `yarn`.)
 
 ## License
 
