@@ -8,7 +8,10 @@ yarn build
 # this call is optimized to run on the netlify server
 node /opt/build/repo/node_modules/.bin/serve -n docs/.vuepress/dist &
 child_id=$!
+cd blc
+yarn install
 yarn blc
+cd ..
 ps xu
 kill $child_id || true
 ps xu

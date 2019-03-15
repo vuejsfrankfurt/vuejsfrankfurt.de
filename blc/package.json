@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "blc": "blc http://127.0.0.1:5000 -e -ro -f --filter-level 2",
+    "blc-external": "blc http://127.0.0.1:5000 -ro --filter-level 2"
+  },
+  "devDependencies": {
+    "broken-link-checker": "^0.7.8"
+  }
+}
