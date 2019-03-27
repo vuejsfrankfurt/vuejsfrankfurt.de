@@ -24,6 +24,12 @@ Wir danken allen Firmen und Co-Working-Spaces, die uns ihre Räumlichkeiten zur 
 :link: [WeWork Neue Rothofstraße](https://www.wework.com/buildings/neue-rothofstrasse-13-19--frankfurt)</br>
 :round_pushpin: [Neue Rothofstraße 13-19, 60313 Frankfurt am Main](https://goo.gl/maps/G7N5yDs5GFm)
 
+## WeWork Taunusanlage
+
+:houses: Coworking Space</br>
+:link: [WeWork Taunusanlage](https://www.wework.com/de-DE/buildings/taunusanlage-8--frankfurt)</br>
+:round_pushpin: [Taunusanlage 8, 60329 Frankfurt am Main](https://goo.gl/maps/QG5BnuobBy72)
+
 ## Mindspace Eurotheum
 
 :houses: Coworking Space</br>

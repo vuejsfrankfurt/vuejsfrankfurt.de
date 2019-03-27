@@ -19,8 +19,8 @@ After speaking to a full audience at Vue.js Amsterdam in February, Quique Fdez G
 This event is sponsored by Plain Concepts.
 Drinks and pizza will be served throughout the event.
 
-**When?** Monday, April 17 @ 18:00</br>
-**Where?** WeWork Frankfurt
+**When?** Wednesday, April 17 @ 18:00</br>
+**Where?** [WeWork Taunusanlage](locations.md#wework-taunusanlage)
 
 [Learn more...](https://www.meetup.com/vuejsfrankfurt/events/259759364/)
 
