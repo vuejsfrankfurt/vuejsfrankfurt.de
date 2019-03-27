@@ -1,3 +1,7 @@
+/** TODO: this is here to smooth upgrade of old vuepress installations with a cached service worker in the browser.
+ * Change or remove when re-adding PWA to VuePress 1.0
+ */
+
 /**
  * Welcome to your Workbox-powered service worker!
  *
