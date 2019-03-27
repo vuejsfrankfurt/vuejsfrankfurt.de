@@ -12,7 +12,19 @@ meta:
 
 # :dancer: Upcoming Events
 
-## May 2019: Lightning Talks
+## April 17 2019: Empowering Vue with TypeScript, Inversify, Vuex and other Super Tools!
+
+After speaking to a full audience at Vue.js Amsterdam in February, Quique Fdez Guerra (@CKGrafico), a Delivery Lead & Software Engineer at Plain Concepts, is coming to Vue.js Frankfurt to give his talk "Empowering Vue with TypeScript, Inversify, Vuex and other Super Tools!"
+
+This event is sponsored by Plain Concepts.
+Drinks and pizza will be served throughout the event.
+
+**When?** Monday, April 17 @ 18:00</br>
+**Where?** WeWork Frankfurt
+
+[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/259759364/)
+
+## May 6 2019: Lightning Talks
 
 This time we’ll show you the diversity of the Vue Ecosystem! The format is Lightning Talks: five talks of 15 minutes each.
 
