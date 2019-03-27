@@ -4,7 +4,7 @@ const TITLE = 'Vue.js Frankfurt';
 
 module.exports = {
   serviceWorker: true,
-  theme: '@vuepress/vue',
+  theme: '@vuepress/theme-default',
   locales: {
     '/': {
       lang: 'en-US',
