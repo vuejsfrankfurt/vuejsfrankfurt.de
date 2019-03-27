@@ -5,8 +5,9 @@
     "serve": "serve -n docs/.vuepress/dist"
   },
   "devDependencies": {
+    "@vuepress/theme-vue": "^1.0.0-alpha.44",
     "serve": "^10.0.2",
-    "vuepress": "^0.14.4"
+    "vuepress": "^1.0.0-alpha.44"
   },
   "__comment": {
     "1": "remove resolutions once https://github.com/vuejs/vuepress/issues/1417 is fixed"

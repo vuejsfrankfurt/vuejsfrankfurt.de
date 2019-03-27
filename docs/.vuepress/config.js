@@ -4,6 +4,7 @@ const TITLE = 'Vue.js Frankfurt';
 
 module.exports = {
   serviceWorker: true,
+  theme: '@vuepress/vue',
   locales: {
     '/': {
       lang: 'en-US',
@@ -57,6 +58,7 @@ module.exports = {
             title: 'Events',
             collapsable: false,
             children: [
+              '/events/speaking',
               '/events/upcoming',
               '/events/past',
               '/events/learningvue',
