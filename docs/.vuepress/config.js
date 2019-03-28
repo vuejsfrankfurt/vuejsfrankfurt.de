@@ -3,7 +3,13 @@ const DE_DESC = 'German Vue.js Frankfurt';
 const TITLE = 'Vue.js Frankfurt';
 
 module.exports = {
-  serviceWorker: true,
+  plugins: {
+    '@vuepress/pwa': {
+      serviceWorker: true,
+      popupComponent: 'MySWUpdateReload',
+      updatePopup: true
+    }
+  },
   theme: '@vuepress/theme-default',
   locales: {
     '/': {
