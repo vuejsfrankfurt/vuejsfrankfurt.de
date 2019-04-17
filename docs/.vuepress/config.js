@@ -8,9 +8,6 @@ module.exports = {
       serviceWorker: true,
       popupComponent: 'MySWUpdateReload',
       updatePopup: true
-    },
-    'clean-urls': {
-      normalSuffix: '',
     }
   },
   locales: {
