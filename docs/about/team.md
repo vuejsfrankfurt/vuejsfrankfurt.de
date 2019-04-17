@@ -20,11 +20,6 @@ Meet the team behind Vue.js Frankfurt!
 :office: Front-End Developer @ [melsicon GmbH](https://melsicon.de)</br>
 :love_letter: [Twitter](https://twitter.com/vicbergquist), [GitHub](https://github.com/vicbergquist), [CodePen](https://codepen.io/vicbergquist)
 
-## Michael Hübl 
-
-:sassy_man: Co-Organiser</br>
-:briefcase: Chief Product Officer @ [Bryter](https://bryter.io/)</br>
-:love_letter: [Twitter](https://twitter.com/m_ic), [Website](https://www.michaelhuebl.de)
 
 ## Alexander Schwartz
 
@@ -33,3 +28,5 @@ Meet the team behind Vue.js Frankfurt!
 :love_letter: [Twitter](https://twitter.com/ahus1de), [GitHub](https://github.com/ahus1), [Website](https://www.ahus1.de)
 
 ## Get involved!
+
+Would you like to help organise Vue.js Frankfurt or volunteer at any of our events? Get in touch with Alexander or Victoria to get started! We look forward to hearing from you :love_letter:
