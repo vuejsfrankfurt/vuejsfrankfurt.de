@@ -8,9 +8,11 @@ module.exports = {
       serviceWorker: true,
       popupComponent: 'MySWUpdateReload',
       updatePopup: true
+    },
+    'clean-urls': {
+      normalSuffix: '',
     }
   },
-  theme: '@vuepress/theme-default',
   locales: {
     '/': {
       lang: 'en-US',

@@ -9,5 +9,8 @@
     "@vuepress/theme-vue": "^1.0.0-alpha.44",
     "serve": "^10.0.2",
     "vuepress": "^1.0.0-alpha.44"
+  },
+  "dependencies": {
+    "vuepress-plugin-clean-urls": "^1.0.3"
   }
 }
