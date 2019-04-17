@@ -1,3 +1,15 @@
+---
+meta:
+  - property: og:title
+    content: Speaking at Vue.js Frankfurt
+  - name: description
+    content: We are always looking for speakers for one of our events, maybe you have something interesting to share? Let us know by filling out our speaker form!
+  - property: og:description
+    content: We are always looking for speakers for one of our events, maybe you have something interesting to share? Let us know by filling out our speaker form!
+  - property: og:image
+    content: https://www.vuejsfrankfurt.de/images/speaking-screenshot.png
+---
+
 # :microphone: Speaking
 
 If you are interested in giving talks, workshops etc. please let us know by filling out our [Speaking @ Vue.js Frankfurt form](https://forms.gle/EsxCHGoYuERt5Tie7) or contacting Alex or Victoria directly.
