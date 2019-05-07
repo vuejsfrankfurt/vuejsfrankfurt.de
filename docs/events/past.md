@@ -19,10 +19,10 @@ This time we’ll show you the diversity of the Vue Ecosystem! The format is Lig
 
 **Recap:** The audience was filled with 25+ attendees. We heard four talks this evening: 
 
-* *Small Apps to solve First World Problems* <br> (Michael Gecht / [@_mischi](https://twitter.com/_mischi))
+* [*Small Apps to solve First World Problems*](https://speakerdeck.com/mimischi/small-apps-for-first-world-problems) <br> (Michael Gecht / [@_mischi](https://twitter.com/_mischi))
 * *Quickstart Vuetify* <br> ([Anett Gesierich](http://emsuiko.de) / [@emsuiko](https://twitter.com/emsuiko))
 * *How to build a Portal component with Vue* <br> (Thorsten Lünborg / [@Linus_Borg](https://twitter.com/Linus_Borg))
-* *Async Components as loading indicator* <br> ([Alexander Schwartz](https://www.ahus1.de) / [@ahus1de](https://twitter.com/ahus1de))
+* [*Async Components with loading indicator*](https://www.ahus1.de/post/vuejs-async-components) <br> ([Alexander Schwartz](https://www.ahus1.de) / [@ahus1de](https://twitter.com/ahus1de))
 
 Thank you to everybody who joined the lively discussion! 
 A very big thank you to iteratec who sponsored the venue, food and drinks.
