@@ -11,8 +11,38 @@ meta:
 ---
 
 # :hourglass: Past Events
-
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
+
+## May 6 2019: Lightning Talks
+
+This time we’ll show you the diversity of the Vue Ecosystem! The format is Lightning Talks: talks of 15 minutes each.
+
+**Recap:** The audience was filled with 25+ attendees. We heard four talks this evening: 
+
+* *Small Apps to solve First World Problems* <br> (Michael Gecht / [@_mischi](https://twitter.com/_mischi))
+* *Quickstart Vuetify* <br> ([Anett Gesierich](http://emsuiko.de) / [@emsuiko](https://twitter.com/emsuiko))
+* *How to build a Portal component with Vue* <br> (Thorsten Lünborg / [@Linus_Borg](https://twitter.com/Linus_Borg))
+* *Async Components as loading indicator* <br> ([Alexander Schwartz](https://www.ahus1.de) / [@ahus1de](https://twitter.com/ahus1de))
+
+Thank you to everybody who joined the lively discussion! 
+A very big thank you to iteratec who sponsored the venue, food and drinks.
+This is a location with an awesome view and we use the cosy meetup area to network and discussion in the breaks and after the event.
+
+**When?** Monday, May 6 @ 18:00</br>
+**Where?** [iteratec Frankfurt](locations.md#iteratec-frankfurt)
+
+[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/255460193/)
+
+## April 2019: Empowering Vue with TypeScript, Inversify, Vuex and other Super Tools!
+
+After speaking to a full audience at Vue.js Amsterdam in February, Quique Fdez Guerra (@CKGrafico), a Delivery Lead & Software Engineer at Plain Concepts, is coming to Vue.js Frankfurt to give his talk "Empowering Vue with TypeScript, Inversify, Vuex and other Super Tools!"
+
+**Recap:** The event location was filled up to hte last seat. A big thank you to Plain Concepts for sponsoring the event!
+
+**When?** Wednesday, April 17 @ 18:00</br>
+**Where?** [WeWork Taunusanlage](locations.md#wework-taunusanlage)
+
+[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/259759364/)
 
 ## Beginner's Training - Testing with Jest
 

@@ -1,5 +1,36 @@
 # :hourglass: Vergangene Veranstaltungen
 
+## Mai 6 2019: Lightning Talks
+
+Dieses Mal zeigen wir euch die Vielfals des Vue Ökosystems. Das Format sind Lightning Talks: Vorträge zu je 15 Minuten.
+
+**Recap:** The audience was filled with 25+ attendees. We heard four talks this evening: 
+
+* *Small Apps to solve First World Problems* <br> (Michael Gecht / [@_mischi](https://twitter.com/_mischi))
+* *Quickstart Vuetify* <br> ([Anett Gesierich](http://emsuiko.de) / [@emsuiko](https://twitter.com/emsuiko))
+* *How to build a Portal component with Vue* <br> (Thorsten Lünborg / [@Linus_Borg](https://twitter.com/Linus_Borg))
+* *Async Components as loading indicator* <br> ([Alexander Schwartz](https://www.ahus1.de) / [@ahus1de](https://twitter.com/ahus1de))
+
+Danke an alle, die sich an der intensiven Diskussion beteiligt haben! 
+A very big thank you to iteratec who sponsored the venue, food and drinks.
+This is a location with an awesome view and we use the cosy meetup area to network and discussion in the breaks and after the event.
+
+**Wann?** Montag, 6. Mai @ 18:00 Uhr</br>
+**Wo?** [iteratec Frankfurt](locations.md#iteratec-frankfurt)
+
+[mehr...](https://www.meetup.com/vuejsfrankfurt/events/255460193/)
+
+## April 17 2019: Empowering Vue with TypeScript, Inversify, Vuex and other Super Tools!
+
+Nach einem vollen Vortragssaal bei Vue.js Amsterdam im Februar war Quique Fdez Guerra (@CKGrafico), Delivery Lead & Software Engineer bei Plain Concepts, heute uns zu Gast. Sein Vortrag: "Empowering Vue with TypeScript, Inversify, Vuex and other Super Tools!"
+
+**Recap:** Der Zulauf für dieses Meetup war groß -- der Raum war voll. Vielen Dank an Plain Concepts, für diesen Vortrag und das Sponsoring des Raums, der Getränke und der Pizza!
+
+**Wann?** Mittwoch, 17. April @ 18:00 Uhr</br>
+**Wo?** [WeWork Taunusanlage](locations.md#wework-taunusanlage)
+
+[Learn more...](https://www.meetup.com/vuejsfrankfurt/events/259759364/)
+
 ## Einsteiger Training - Testen with Jest
 
 Das vierte und letzte Event zeigt, wie das Parent/Child-Konzept in Vue funktioniert und ihr [Komponenten mit Jest testet](https://vue-test-utils.vuejs.org/guides/#testing-single-file-components-with-jest).
