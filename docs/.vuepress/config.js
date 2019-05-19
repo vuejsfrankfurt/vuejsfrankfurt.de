@@ -99,7 +99,6 @@ module.exports = {
           }
         },
         algolia: {},
-        displayAllHeaders: true,
         sidebarDepth: 2,
         nav: [
           { text: 'Meetup', link: 'https://meetup.com/vuejsfrankfurt' },
