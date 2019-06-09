@@ -63,3 +63,9 @@ A big thank-you to all companies and co-working locations that support us!
 :houses: Company office</br>
 :link: [iteratec.de](https://www.iteratec.de/unternehmen/frankfurt/)</br>
 :round_pushpin: [Westhafenplatz 1, 60327 Frankfurt](https://www.google.de/maps/search/50.101248,8.663862)
+
+## Reservix GmbH
+
+:houses: Company office</br>
+:link: [reservix.net](https://www.reservix.net/)</br>
+:round_pushpin: [Kaiserstraße 67, 60329 Frankfurt](https://goo.gl/maps/aycsN29GCugCBMkG7)
