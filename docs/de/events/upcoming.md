@@ -33,7 +33,7 @@ Building applications for mobile devices has its additional challenges: The netw
 This Meetup Martin Sotirov will talk about Vue on mobile devices and take a look at the different ways you can deploy a Vue app on mobile. We start with a PWA, go through a hybrid solution using Ionic Capacitor and then finally arrive at a NativeScript app which renders native iOS and Android views.
 
 **Wann?** Donnerstag, 26. September @ 18:00-21:00</br>
-**Wo?** (tba)
+**Wo?** [AOE GmbH - Frankfurt](./locations.html#aoe-gmbh-frankfurt)
 
 [Erfahre mehr...](https://www.meetup.com/de-DE/vuejsfrankfurt/events/262091384/)
 

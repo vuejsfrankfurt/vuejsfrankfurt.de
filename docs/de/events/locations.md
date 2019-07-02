@@ -58,4 +58,10 @@ Wir danken allen Firmen und Co-Working-Spaces, die uns ihre Räumlichkeiten zur 
 
 :houses: Firmenbüro</br>
 :link: [reservix.net](https://www.reservix.net/)</br>
-:round_pushpin: [Kaiserstraße 67, 60329 Frankfurt](https://goo.gl/maps/aycsN29GCugCBMkG7)
+:round_pushpin: [Kaiserstraße 67, 60329 Frankfurt am Main](https://goo.gl/maps/aycsN29GCugCBMkG7)
+
+## AOE GmbH - Frankfurt
+
+:houses: Firmenbüro</br>
+:link: [https://www.aoe.com](https://www.aoe.com)</br>
+:round_pushpin: [Wilhelm-Leuschner-Straße 78, 60329 Frankfurt am Main](https://goo.gl/maps/ghrxgcV8NwtJK5KJ6)
