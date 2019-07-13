@@ -17,7 +17,7 @@ Meet the team behind Vue.js Frankfurt!
 ## Victoria Bergquist
 
 :sassy_woman: Organiser</br>
-:office: Front-End Developer @ [melsicon GmbH](https://melsicon.de)</br>
+:office: Front-End Developer @ [sanity.io](https://www.sanity.io/)</br>
 :love_letter: [Twitter](https://twitter.com/vicbergquist), [GitHub](https://github.com/vicbergquist), [CodePen](https://codepen.io/vicbergquist)
 
 ## Alexander Schwartz
