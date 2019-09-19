@@ -13,6 +13,28 @@ meta:
 # :hourglass: Past Events
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## July 02 2019: VuePress: 5 Ways to Customize your Site
+
+VuePress is a Static Site Generator powered by Vue.js, vue-router and webpack that offers a simple and minimalist setup optimised for writing content in Markdown. 
+It features a fully featured theme that looks great, but how can you customize VuePress to fit your needs? 
+In this talk, Victoria Bergquist will introduced you to VuePress and show you 5 major ways you can customize your VuePress site to make it stand out and feel true to your brand.
+
+**When?** Tuesday, July 2 @ 18:00-21:00</br>
+**Where?** [Reservix GmbH](./locations.html#reservix-gmbh)
+
+[Learn more...](https://www.meetup.com/de-DE/vuejsfrankfurt/events/262091352/)
+
+## June 28 2019: VueVixens Workshop @ enterJS
+
+At this event we introduced you to the Vue Vixens and Vue.js. Together, we worked with an example project to learn how to set up a Vue app, the basics of components and how to perform simple REST API calls using Axios.
+
+This event was is free and open to anyone who identify as a woman and wants to learn about Vue.js. No previous knowledge of Vue.js was required to attend this event and we invited women of all ages, skill levels and backgrounds to join us.
+
+**When?** Friday,  June 28 @ 9:00-16:30</br>
+**Where?** [darmstadtium](https://www.darmstadtium.de/)
+
+[Learn more...](https://vuevixens.org/)
+
 ## May 6 2019: Lightning Talks
 
 This time we’ll show you the diversity of the Vue Ecosystem! The format is Lightning Talks: talks of 15 minutes each.
