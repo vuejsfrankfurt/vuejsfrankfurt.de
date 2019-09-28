@@ -1,5 +1,17 @@
 # :hourglass: Vergangene Veranstaltungen
 
+## 26. September 2019: Mobile Vue.js – From PWA to Native
+
+Building applications for mobile devices has its additional challenges: The network connection can be flaky and slow, so the application should still work when the device is offline. Users expect application icons on their home screens to start them. Depending on your use cases you want to access sensors that are not available in the browser.
+
+This Meetup [Martin Sotirov](https://twitter.com/unclemartycodes) showed how to use Vue on mobile devices. We started with a PWA, went through a hybrid solution using Ionic Capacitor and then finally arrived at a NativeScript app which renders native iOS and Android views. About 40 Vue-enthusiasts met for this talk, network, food and drinks.
+A big THANK-YOU to AOE for sponsoring this event!
+
+You find the [slides of Martin's talk on Slideshare](https://www.slideshare.net/MartinSotirov/mobile-vuejs-from-pwa-to-native/MartinSotirov/mobile-vuejs-from-pwa-to-native).
+
+**Wann?** Donnerstag, 26. September @ 18:00-21:00</br>
+**Wo?** [AOE GmbH - Frankfurt](./locations.html#aoe-gmbh-frankfurt)
+
 ## 02. Juli 2019: VuePress: 5 Ways to Customize your Site
 
 VuePress is a Static Site Generator powered by Vue.js, vue-router and webpack that offers a simple and minimalist setup optimised for writing content in Markdown. 
