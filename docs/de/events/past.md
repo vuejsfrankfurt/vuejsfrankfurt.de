@@ -7,7 +7,7 @@ Building applications for mobile devices has its additional challenges: The netw
 This Meetup [Martin Sotirov](https://twitter.com/unclemartycodes) showed how to use Vue on mobile devices. We started with a PWA, went through a hybrid solution using Ionic Capacitor and then finally arrived at a NativeScript app which renders native iOS and Android views. About 40 Vue-enthusiasts met for this talk, network, food and drinks.
 A big THANK-YOU to AOE for sponsoring this event!
 
-You find the [slides of Martin's talk on Slideshare](https://www.slideshare.net/MartinSotirov/mobile-vuejs-from-pwa-to-native/MartinSotirov/mobile-vuejs-from-pwa-to-native).
+You find the [slides of Martin's talk on Slideshare](https://www.slideshare.net/MartinSotirov/mobile-vuejs-from-pwa-to-native/MartinSotirov/mobile-vuejs-from-pwa-to-native) and a [recording on YouTube](https://youtu.be/oSz7lYexuGg) (thank you to our friends at [frontend rheinmain](https://frontend-rheinmain.de/) for the recording).
 
 **Wann?** Donnerstag, 26. September @ 18:00-21:00</br>
 **Wo?** [AOE GmbH - Frankfurt](./locations.html#aoe-gmbh-frankfurt)
