@@ -14,7 +14,7 @@ meta:
 
 Vue.js Frankfurt is a meetup community for anyone interested Vue.js. Join us at one of our events to get to know our community. We hope to see you around!
 
-If you are interested in giving talks, workshops etc. please let us know by filling out our [Speaking @ Vue.js Frankfurt form](https://forms.gle/EsxCHGoYuERt5Tie7) or contacting Alex or Victoria directly!
+If you are interested in giving talks, workshops etc. please let us know by filling out our [Speaking @ Vue.js Frankfurt form](https://forms.gle/EsxCHGoYuERt5Tie7) or contacting Alex directly!
 
 To get the latest updates about our events and what we're up to, please follow us on Twitter: [@vuejsfrankfurt](https://twitter.com/vuejsfrankfurt)
 

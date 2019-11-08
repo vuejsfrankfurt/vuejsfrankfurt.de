@@ -29,7 +29,7 @@ You find the [slides of Martin's talk on Slideshare](https://www.slideshare.net/
 
 VuePress is a Static Site Generator powered by Vue.js, vue-router and webpack that offers a simple and minimalist setup optimised for writing content in Markdown. 
 It features a fully featured theme that looks great, but how can you customize VuePress to fit your needs? 
-In this talk, Victoria Bergquist will introduced you to VuePress and show you 5 major ways you can customize your VuePress site to make it stand out and feel true to your brand.
+In this talk, Victoria Bergquist will introduce you to VuePress and show you 5 major ways you can customize your VuePress site to make it stand out and feel true to your brand.
 
 **When?** Tuesday, July 2 @ 18:00-21:00</br>
 **Where?** [Reservix GmbH](./locations.html#reservix-gmbh)
