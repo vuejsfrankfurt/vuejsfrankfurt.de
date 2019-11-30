@@ -1,6 +1,6 @@
 # :houses: Veranstaltungsorte
 
-Vue.js Frankfurt Veranstaltungen finden an verschiedenen Orten in und um Frankfurt statt.  
+Vue.js Frankfurt Veranstaltungen finden an verschiedenen Orten in und um Frankfurt statt.
 
 Wir danken allen Firmen und Co-Working-Spaces, die uns ihre Räumlichkeiten zur Verfügung stellen!
 
@@ -63,5 +63,11 @@ Wir danken allen Firmen und Co-Working-Spaces, die uns ihre Räumlichkeiten zur 
 ## AOE GmbH - Frankfurt
 
 :houses: Firmenbüro</br>
-:link: [https://www.aoe.com](https://www.aoe.com)</br>
+:link: [aoe.com](https://www.aoe.com)</br>
 :round_pushpin: [Wilhelm-Leuschner-Straße 78, 60329 Frankfurt am Main](https://goo.gl/maps/ghrxgcV8NwtJK5KJ6)
+
+## Triplesense Reply - Frankfurt
+
+:houses: Firmenbüro</br>
+:link: [triplesensereply.de](https://www.triplesensereply.de/)</br>
+:round_pushpin: [Uhlandstraße 2, 60314 Frankfurt am Main](https://goo.gl/maps/TcGsNvBBNjL6FyDT6)

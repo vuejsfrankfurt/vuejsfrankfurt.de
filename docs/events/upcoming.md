@@ -16,17 +16,14 @@ If you are interested in giving talks, workshops etc. please let us know by fill
 
 [Learn more...](https://www.meetup.com/de-DE/vuejsfrankfurt/events/262091384/)
 
-## October 18 2019: Hacktoberfest Frankfurt 2019
+## December 9 2019: Robust Design Systems with Storybook and Vue.js
 
-Welcome Back To Hacktoberfest Frankfurt 2019!
-Let's get together again to celebrate open source over food, drinks, and great company! Hacktoberfest is all about encouraging meaningful contributions to the open source ecosystem, and we would love to see you for the 2019 edition!
+It seems that everyone is talking about design systems these days, but what is that anyway? In this hands-on talk, Andreas will talk about the foundations of a design system and how implementing one in your organization will help bridge the gap between design and development teams. From introducing tooling like Storybook to crafting a robust process applicable in almost every project, you’ll learn about the ins and outs of design systems.
 
-Come along to learn more about Open Source projects, commit code and network with fellow Open Source enthusiasts!
+**Wann?** Montag, 9. Dezember @ 19:30-21:00</br>
+**Wo?** [TripleSense Reply](./locations.html#triplesense-reply-frankfurt)
 
-**When?** Friday, October 18 @ 17:00-23:50</br>
-**Where?** [Skydeck Frankfurt](./locations.html#skydeck-frankfurt)
-
-[Learn more...](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2019-tickets-71269742719)
+[Erfahre mehr...](https://www.meetup.com/vuejsfrankfurt/events/266706217/)
 
 <!--
 (currently no talk or workshop scheduled)

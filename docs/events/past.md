@@ -13,6 +13,18 @@ meta:
 # :hourglass: Past Events
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## October 18 2019: Hacktoberfest Frankfurt 2019
+
+Welcome Back To Hacktoberfest Frankfurt 2019!
+Let's get together again to celebrate open source over food, drinks, and great company! Hacktoberfest is all about encouraging meaningful contributions to the open source ecosystem, and we would love to see you for the 2019 edition!
+
+Come along to learn more about Open Source projects, commit code and network with fellow Open Source enthusiasts!
+
+**When?** Friday, October 18 @ 17:00-23:50</br>
+**Where?** [Skydeck Frankfurt](./locations.html#skydeck-frankfurt)
+
+[Learn more...](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2019-tickets-71269742719)
+
 ## September 26 2019: Mobile Vue.js – From PWA to Native
 
 Building applications for mobile devices has its additional challenges: The network connection can be flaky and slow, so the application should still work when the device is offline. Users expect application icons on their home screens to start them. Depending on your use cases you want to access sensors that are not available in the browser.
@@ -27,8 +39,8 @@ You find the [slides of Martin's talk on Slideshare](https://www.slideshare.net/
 
 ## July 02 2019: VuePress: 5 Ways to Customize your Site
 
-VuePress is a Static Site Generator powered by Vue.js, vue-router and webpack that offers a simple and minimalist setup optimised for writing content in Markdown. 
-It features a fully featured theme that looks great, but how can you customize VuePress to fit your needs? 
+VuePress is a Static Site Generator powered by Vue.js, vue-router and webpack that offers a simple and minimalist setup optimised for writing content in Markdown.
+It features a fully featured theme that looks great, but how can you customize VuePress to fit your needs?
 In this talk, Victoria Bergquist will introduce you to VuePress and show you 5 major ways you can customize your VuePress site to make it stand out and feel true to your brand.
 
 **When?** Tuesday, July 2 @ 18:00-21:00</br>
@@ -51,14 +63,14 @@ This event was is free and open to anyone who identify as a woman and wants to l
 
 This time we’ll show you the diversity of the Vue Ecosystem! The format is Lightning Talks: talks of 15 minutes each.
 
-**Recap:** The audience was filled with 25+ attendees. We heard four talks this evening: 
+**Recap:** The audience was filled with 25+ attendees. We heard four talks this evening:
 
 * [*Small Apps to solve First World Problems*](https://speakerdeck.com/mimischi/small-apps-for-first-world-problems) <br> (Michael Gecht / [@_mischi](https://twitter.com/_mischi) / [GitHub Repo](https://github.com/mimischi/takemehome))
 * *Quickstart Vuetify* <br> ([Anett Gesierich](http://emsuiko.de) / [@emsuiko](https://twitter.com/emsuiko))
 * [*How to build a Portal component with Vue*](https://slides.com/thorstenlunborg/building-portals#/) <br> (Thorsten Lünborg / [@Linus_Borg](https://twitter.com/Linus_Borg) / [GitHub Repo](https://github.com/LinusBorg/demo-project-building-portals-in-vue))
 * [*Async Components with loading indicator*](https://www.ahus1.de/post/vuejs-async-components) <br> ([Alexander Schwartz](https://www.ahus1.de) / [@ahus1de](https://twitter.com/ahus1de))
 
-Thank you to everybody who joined the lively discussion! 
+Thank you to everybody who joined the lively discussion!
 A very big thank you to iteratec who sponsored the venue, food and drinks.
 This is a location with an awesome view and we use the cosy meetup area to network and discussion in the breaks and after the event.
 
@@ -150,10 +162,10 @@ Celebrate the holidays with CSS Frankfurt and Vue.js Frankfurt.
 
 **Recap:** About 50 Vue.js and CSS enthusiasts met at Skydeck that provided us lots of space and a great night time view over Frankfurt. Victoria, Anett and Alex started with a short review of 2018 and preview of the events to come in 2019.
 
-Afterwards seven teams showed their knowledge about Web technologies in a Quiz: Victoria presented 10 questions of which team _undefined_ scored 9/10. 
+Afterwards seven teams showed their knowledge about Web technologies in a Quiz: Victoria presented 10 questions of which team _undefined_ scored 9/10.
 The winning team was the first to pick from a variety of software licenses, tech gadgets, books and conference swag. Thank you Smashing Magazine, JetBrains and msg to fill our price box.
 
-Thank you Skydeck for sponsoring drinks and providing the location, and melsicon for sponsoring the food! 
+Thank you Skydeck for sponsoring drinks and providing the location, and melsicon for sponsoring the food!
 
 **When?** Friday, December 14 @ 18:00</br>
 **Where?** [Skydeck Frankfurt](locations.md#skydeck-frankfurt)
@@ -164,7 +176,7 @@ Thank you Skydeck for sponsoring drinks and providing the location, and melsicon
 
 For everyone who wants to learn Vue.js. This time setting it is all about setting up a project with vue-cli and Webpack.
 
-**Recap:** We dived into Vue CLI 3 and discovered lots of new concepts in the example project on the way: Single File Components, Parent-Child, Router, and how to build a production-ready bundle. 
+**Recap:** We dived into Vue CLI 3 and discovered lots of new concepts in the example project on the way: Single File Components, Parent-Child, Router, and how to build a production-ready bundle.
 We also got a brief glance at axios to access remote APIs.
 Thank you for msg to provide location and drinks!
 

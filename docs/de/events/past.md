@@ -1,5 +1,15 @@
 # :hourglass: Vergangene Veranstaltungen
 
+## 18. Oktober 2019: Hacktoberfest Frankfurt 2019
+
+Das Hacktoberfest ist zurück in Frankfurt!
+Lasst uns zusammen OpenSource feiern mit Essen, Getränken und Freunden! Beim Hacktoberfest dreht sich alles um Beiträge zu Open-Source-Software. Wir freuen uns, euch bei dieses Jahr wieder zu sehen!
+
+**Wann?** Freitag, 18. Oktober @ 17:00-23:50</br>
+**Wo?** [Skydeck Frankfurt](./locations.html#skydeck-frankfurt)
+
+[Erfahre mehr...](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2019-tickets-71269742719)
+
 ## 26. September 2019: Mobile Vue.js – From PWA to Native
 
 Building applications for mobile devices has its additional challenges: The network connection can be flaky and slow, so the application should still work when the device is offline. Users expect application icons on their home screens to start them. Depending on your use cases you want to access sensors that are not available in the browser.
@@ -14,8 +24,8 @@ You find the [slides of Martin's talk on Slideshare](https://www.slideshare.net/
 
 ## 02. Juli 2019: VuePress: 5 Ways to Customize your Site
 
-VuePress is a Static Site Generator powered by Vue.js, vue-router and webpack that offers a simple and minimalist setup optimised for writing content in Markdown. 
-It features a fully featured theme that looks great, but how can you customize VuePress to fit your needs? 
+VuePress is a Static Site Generator powered by Vue.js, vue-router and webpack that offers a simple and minimalist setup optimised for writing content in Markdown.
+It features a fully featured theme that looks great, but how can you customize VuePress to fit your needs?
 In this talk, Victoria Bergquist will introduce you to VuePress and show you 5 major ways you can customize your VuePress site to make it stand out and feel true to your brand.
 
 **Wann?** Dienstag, 2. Juli @ 18:00-21:00</br>
@@ -40,14 +50,14 @@ Dieser Workshop ist kostenfrei für alle Teilnehmerinnen. Bitte beachte, dass di
 
 Dieses Mal zeigen wir euch die Vielfals des Vue Ökosystems. Das Format sind Lightning Talks: Vorträge zu je 15 Minuten.
 
-**Recap:** The audience was filled with 25+ attendees. We heard four talks this evening: 
+**Recap:** The audience was filled with 25+ attendees. We heard four talks this evening:
 
 * [*Small Apps to solve First World Problems*](https://speakerdeck.com/mimischi/small-apps-for-first-world-problems) <br> (Michael Gecht / [@_mischi](https://twitter.com/_mischi) / [GitHub Repo](https://github.com/mimischi/takemehome))
 * *Quickstart Vuetify* <br> ([Anett Gesierich](http://emsuiko.de) / [@emsuiko](https://twitter.com/emsuiko))
 * [*How to build a Portal component with Vue*](https://slides.com/thorstenlunborg/building-portals#/) <br> (Thorsten Lünborg / [@Linus_Borg](https://twitter.com/Linus_Borg) / [GitHub Repo](https://github.com/LinusBorg/demo-project-building-portals-in-vue))
 * [*Async Components with loading indicator*](https://www.ahus1.de/post/vuejs-async-components) <br> ([Alexander Schwartz](https://www.ahus1.de) / [@ahus1de](https://twitter.com/ahus1de))
 
-Danke an alle, die sich an der intensiven Diskussion beteiligt haben! 
+Danke an alle, die sich an der intensiven Diskussion beteiligt haben!
 A very big thank you to iteratec who sponsored the venue, food and drinks.
 This is a location with an awesome view and we use the cosy meetup area to network and discussion in the breaks and after the event.
 
@@ -81,7 +91,7 @@ Bringe deinen Laptop mit, da dies ein Mitmach-Workshop ist.
 
 ## Einsteiger Training - Remote APIs mit Axios
 
-Das dritte Event zeigt euch die Konzepte zu watch/computed und wie ihr mit Axios auf Remote APIs zugreift. 
+Das dritte Event zeigt euch die Konzepte zu watch/computed und wie ihr mit Axios auf Remote APIs zugreift.
 Bringe deinen Laptop mit, da dies ein Mitmach-Workshop ist.
 
 **Recap:** Acht Vue.js Lernende trafen sich heute. Danke an \<code\>monauts für die Gastfreundschaft und die tolle zentrale Location! Wir sind in die Feinheiten von _computed_ und _watch_ eingetaucht und haben die GitHub API mit Axios angebunden! Nächste Woche geht es um Unit Testing für Vue mit Jest.
@@ -95,7 +105,7 @@ Bringe deinen Laptop mit, da dies ein Mitmach-Workshop ist.
 
 Ab dem 20. Februar stellen wir jede Woche bis 13. März ein Thema vor.
 
-Das zweite Event zeigt euch den Umgang mit Vue CLI 3, Single File Components, und den Component Lifecycle. 
+Das zweite Event zeigt euch den Umgang mit Vue CLI 3, Single File Components, und den Component Lifecycle.
 Bringe deinen Laptop mit, da dies ein Mitmach-Workshop ist.
 
 **Recap:** Sieben Vue.js Lernende trafen sich heute. Danke an \<code\>monauts für die Gastfreundschaft und die tolle zentrale Location! Mit node und npm haben wir nun weitere Werkzeuge hinzugefügt und alle freuten sich über das automatische hot-reload während der Entwicklung. Nächste Woche binden wir Remote-APIs mit Axios an.
@@ -123,7 +133,7 @@ Bringe deinen Laptop mit, da dies ein Mitmach-Workshop ist.
 
 Heute drehte sich alles rund um Vuex und wie ihr Zustand in Vue.js-Anwendungen haltet.
 
-Im Hauptvortrag zeigte Niklas, wie ihr mit Vuex eure Nutzer mit Undo und Redo glücklich macht! Im Einführungsvortrag davor zeigte Alexander die Grundlagen von Vuex und wie ihr es in Vue.js einbindet. 
+Im Hauptvortrag zeigte Niklas, wie ihr mit Vuex eure Nutzer mit Undo und Redo glücklich macht! Im Einführungsvortrag davor zeigte Alexander die Grundlagen von Vuex und wie ihr es in Vue.js einbindet.
 
 Mit diesen zwei Vorträgen war sowohl für Anfänger als auch für Experten etwas dabei.
 
@@ -144,10 +154,10 @@ Feiere die Feiertage mit CSS Frankfurt und Vue.js Frankfurt.
 
 **Recap:** 50 Vue.js- und CSS-Begeisterte trafen sich im Skydeck, das viel Platz und einen tollen Blick über das nächtliche Frankfurt bot. Victoria, Anett und Alex begannen mit einem kurzen Rückblick auf 2018 und einen Ausblick auf die geplanten Veranstaltungen in 2019.
 
-Anschließend konnten 7 Teams ihr Wissen rund um Web-Technologien unter Beweis stellen: Victoria präsentierte 10 Fragen, von denen das Team _undefined_ 9 von 10 richtig beantwortete. 
+Anschließend konnten 7 Teams ihr Wissen rund um Web-Technologien unter Beweis stellen: Victoria präsentierte 10 Fragen, von denen das Team _undefined_ 9 von 10 richtig beantwortete.
 Das Gewinnerteam durfte als erstes aus einer Auswahl von Software-Lizenzen, Tech-Gadgets, Büchern und Konferenz-Mitbringseln auswählen. Danke an Smashing Magazine, JetBrains und msg für die reichhaltig gefüllte Preis-Kiste!
 
-Danke an Skydeck für Getränke und die Location, danke an melsicon für das Essen! 
+Danke an Skydeck für Getränke und die Location, danke an melsicon für das Essen!
 
 **Wann?** Freitag, 14. Oktober @ 18:00 Uhr</br>
 **Wo?** [Skydeck Frankfurt](locations.md#skydeck-frankfurt)
@@ -171,7 +181,7 @@ Danke an msg für die Location und die Getränke!
 
 Für alle, die die Vue.js Grundlagen lernen wollen, bieten wir nun einen Abendkurs an!
 
-**Recap:** Unser Einstieg am 9. November war ein Erfolg - 100% der angemeldeten Teilnehmer kamen! 
+**Recap:** Unser Einstieg am 9. November war ein Erfolg - 100% der angemeldeten Teilnehmer kamen!
 Glückliche und zufriedene Gesichter nach zwei intensiven Trainingsstunden: Einstieg in Vue.js, Verwendung der Vue.js Entwickler-Tools, Fallstricke in der täglichen Arbeit vermeiden. Danke an msg für die Location und die Getränke!
 
 **Wann?** Freitag, 9. November @ 16:30 Uhr</br>

@@ -73,5 +73,11 @@ A big thank-you to all companies and co-working locations that support us!
 ## AOE GmbH - Frankfurt
 
 :houses: Company office</br>
-:link: [https://www.aoe.com](https://www.aoe.com)</br>
+:link: [aoe.com](https://www.aoe.com)</br>
 :round_pushpin: [Wilhelm-Leuschner-Straße 78, 60329 Frankfurt am Main](https://goo.gl/maps/ghrxgcV8NwtJK5KJ6)
+
+## Triplesense Reply - Frankfurt
+
+:houses: Company office</br>
+:link: [triplesensereply.de](https://www.triplesensereply.de/)</br>
+:round_pushpin: [Uhlandstraße 2, 60314 Frankfurt am Main](https://goo.gl/maps/TcGsNvBBNjL6FyDT6)
