@@ -11,6 +11,6 @@
     "vuepress": "^1.0.0-alpha.44"
   },
   "dependencies": {
-    "vuepress-plugin-clean-urls": "^1.0.3"
+    "vuepress-plugin-clean-urls": "^1.1.1"
   }
 }
