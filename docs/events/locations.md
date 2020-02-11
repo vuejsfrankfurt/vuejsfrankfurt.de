@@ -81,3 +81,11 @@ A big thank-you to all companies and co-working locations that support us!
 :houses: Company office</br>
 :link: [triplesensereply.de](https://www.triplesensereply.de/)</br>
 :round_pushpin: [Uhlandstraße 2, 60314 Frankfurt am Main](https://goo.gl/maps/TcGsNvBBNjL6FyDT6)
+
+
+## BRYTER GmbH - Frankfurt
+
+:houses: Company office</br>
+:link: [bryter.io](https://www.bryter.io/)</br>
+:round_pushpin: [Hanauer Landstraße 175, 60314 Frankfurt am Main](https://goo.gl/maps/KTpw24zUT7BS1ANc9)
+
