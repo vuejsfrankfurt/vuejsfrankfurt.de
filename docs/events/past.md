@@ -13,6 +13,17 @@ meta:
 # :hourglass: Past Events
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## February 13, 2020: How to get along with webpack
+
+Hendrik Putzek ([@hputzek](https://twitter.com/andreas_wissel)) talked about webpack: "For many people webpack is some kind of black magic. At least for me this was long the case. I'll introduce the most important concepts of webpack so that you should be able to create a custom setup AND completely know what it does."
+
+[Take a tour through the slides](https://docs.google.com/presentation/d/1b2VPaxjUS4cP5REY-1ppEo9Jyj4_-e-hzkMqsk9J1YQ/edit#slide=id.p1).
+
+**When?** Thursday, February 13 @ 18:30-21:00</br>
+**Where?** [BRYTER GmbH - Frankfurt](./locations.html#bryter-gmbh-frankfurt)
+
+[Learn more](https://www.meetup.com/de-DE/vuejsfrankfurt/events/267782889/)
+
 ## December 9 2019: Robust Design Systems with Storybook and Vue.js
 
 It seems that everyone is talking about design systems these days, but what is that anyway? In this hands-on talk, Andreas will talk about the foundations of a design system and how implementing one in your organization will help bridge the gap between design and development teams. From introducing tooling like Storybook to crafting a robust process applicable in almost every project, you’ll learn about the ins and outs of design systems.
