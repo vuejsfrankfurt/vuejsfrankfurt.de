@@ -1,5 +1,6 @@
 # Redirect default Netlify subdomain to primary domain
 https://kind-goldberg-2dc7f8.netlify.com/* https://www.vuejsfrankfurt.de/:splat 301!
+https://kind-goldberg-2dc7f8.netlify.app/* https://www.vuejsfrankfurt.de/:splat 301!
 
 /index.html / 301!
 
