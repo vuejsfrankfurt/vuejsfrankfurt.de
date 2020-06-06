@@ -21,3 +21,11 @@ cd lambda
 yarn install
 yarn generate
 cd ..
+
+# search engines should only index the master branch
+if [ "$BRANCH" != "master" ]; then
+cat >> docs/.vuepress/dist/_headers << EOF
+/*
+  x-robots-tag: noindex
+EOF
+fi
