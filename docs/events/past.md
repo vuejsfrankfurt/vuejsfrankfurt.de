@@ -13,6 +13,20 @@ meta:
 # :hourglass: Past Events
 These are Vue.js Frankfurt's past events. You can find links to resources from the events here as well.
 
+## June 17, 2021: Vue.js Meetup Frankfurt - Using Astro.build
+
+Astro is a new HTML first framework for generating web pages which can be enhanced with JavaScript.
+In this talk you will see how Astro makes it possible serve pages at warp speed from different framework planets.
+We are looking forward for you to come on a journey with us.
+
+We‘re always looking for speakers! Got an idea? Contact us on Meetup or Twitter: https://twitter.com/vuejsfrankfurt
+
+**When?** Thursday, June 17th @ 20 Uhr</br>
+**Where?** Remote Event
+
+[Learn more](https://www.meetup.com/de-DE/vuejsfrankfurt/events/267782889/)
+[Video of the talk](https://www.youtube.com/watch?v=htPQ1JIy1-o)
+
 ## February 13, 2020: How to get along with webpack
 
 Hendrik Putzek ([@hputzek](https://twitter.com/andreas_wissel)) talked about webpack: "For many people webpack is some kind of black magic. At least for me this was long the case. I'll introduce the most important concepts of webpack so that you should be able to create a custom setup AND completely know what it does."
