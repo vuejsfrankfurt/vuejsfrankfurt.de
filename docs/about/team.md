@@ -20,7 +20,7 @@ Meet the team behind Vue.js Frankfurt!
 :postbox: [ld@clickbar.dev](mailto:ld@clickbar.dev), [Twitter](https://twitter.com/clickbar_dev), [GitHub](https://github.com/clickbar), [Meetup](https://www.meetup.com/de-DE/clickbar-fullstack-talks/)
 
 ## Chris Möbus
-:sassy_man: Organizer & CEO @ [MoebusDigitalSolutions](https://www.moebus-group.com)
+:sassy_man: Organizer & CEO @ [MoebusDigitalSolutions](https://www.moebus-group.com)<br/>
 :postbox: [info@moebus-group.com](mailto:info@moebus-group.com)
 ## Jan-Martin Frühwacht
 
