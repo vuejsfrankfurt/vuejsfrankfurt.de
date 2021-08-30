@@ -2,3 +2,6 @@
   command = "./build.sh"
   publish = "docs/.vuepress/dist"
   functions = "lambda/dist"
+[build.environment]
+  RUBY_VERSION = ""
+
